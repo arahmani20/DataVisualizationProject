@@ -1,66 +1,145 @@
 <!DOCTYPE html>
-<head>    
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
-    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
-    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
-    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
-    
-    <meta name="viewport" content="width=device-width,
-        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_12d7de26b4974ead8909c6eec67871d2 {
-        position: relative;
-        width: 100.0%;
-        height: 100.0%;
-        left: 0.0%;
-        top: 0.0%;
-        }
-    </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<html>
+<head>
+  <meta charset="utf-8" http-equiv="encoding"/>
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <!-- Popper JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+  <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+  <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+  <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+
+  <meta name="viewport" content="width=device-width,
+  initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <style>#map_12d7de26b4974ead8909c6eec67871d2 {
+    position: relative;
+    width: 100.0%;
+    height: 100.0%;
+    left: 0.0%;
+    top: 0.0%;
+  }
+  </style>
+  <style>
+    #us-map, #header, #bar-chart {
+      border-style: solid;
+      border-radius: 20px;
+      border-width: 1px;
+      border-color: #007bff;
+    }
+    .states:hover {
+      fill: #7084E6;
+    }
+    .sliderContainer {
+
+    }
+    .slider {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      height: 25px;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+    }
+    .slider:hover {
+      opacity: 1;
+    }
+    .slider::-moz-range-thumb {
+      width: 25px;
+      height: 25px;
+      background: #7084E6;
+      cursor: pointer;
+    }
+  </style>
+
 </head>
-<body>    
-    
-    <div class="folium-map" id="map_12d7de26b4974ead8909c6eec67871d2" ></div>
-</body>
-<script> 
+<body>
+  <div id="header" class="container-lg p-4 my-1 bg-primary text-white">
+    <h1>Visualization for used cars in USA</h1>
+  </div>
+  <div id="us-map"class="container-lg">
+    <h2>US Map</h2>
+    <div id="svg">
 
-    //refer to https://github.com/umassdgithub/Fall2021-Week-5-Monday/Example_Mon 5.6 
-  //step 1: Overview the data types and column names
-    let loadData = d3.csv('https://www.kaggle.com/ananaymital/us-used-cars-dataset?select=used_cars_data.csv')
-        .then(function (d){
-            console.log(d)
-        })
+    </div>
+    <div class="sliderContainer">
+      <input type="range" min="2010" max="2021" value="10" class="slider" id="yearsRange">
+      <p>Year: <span id="displayYear"></span></p>
+    </div>
+  </div>
 
-    //step 2: Make the data conversion if needed
-    const loadData = d3.csv("https://www.kaggle.com/ananaymital/us-used-cars-dataset?select=used_cars_data.csv"),
-        function(d) {
-        return {
-        attribute1: new Date(d.Attribute1),
-        attribute2: Number(d.Attribute2)
-        }
+  <div id="bar-chart" class="container-lg my-1">
+    <h2>Bar Chart</h2>
+    <div id="svg-bar">
+
+    </div>
+  </div>
+
+<!--JAVASCRIPT HERE ONWARDS-->
+
+  <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- Script for US Map -->
+  <script type="text/javascript">
+    let width = 900, height = 500
+    let svg = d3.select("#svg").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+
+
+    let usaProjection = d3.geoAlbersUsa()
+      .scale(850)
+      .translate([550, 250])
+
+    let pathGenerator = null
+
+    let geoJsonUrl = ''
+
+    pathGenerator = d3.geoPath().projection(usaProjection)
+    geoJsonUrl = "https://gist.githubusercontent.com/spiker830/e0d1b7950ced31369c903bed0cead7b1/raw/702c72e0ca5a1be95f84a50a58cfa6d4d6400f3f/us_features.json"
+
+    d3.json(geoJsonUrl).then(geojson => {
+      svg.selectAll("path")
+      .data(geojson.features)
+      .enter()
+      .append("path")
+      .attr("d", pathGenerator)
+      .attr("stroke", "grey")
+      .attr("fill", "white")
+      .attr("class", "states")
     })
 
-    //step 3: Load data and visualize
-    loadData.then(data => {
+  </script>
+<!--script for slider -->
+  <script type="text/javascript">
+    let slider = document.getElementById("yearsRange");
+    let output = document.getElementById("displayYear");
+    output.innerHTML = slider.value;
 
-        //step 4: define scale functions for x and y axis
-       
-        //step 5: define line function for variables
-    
-        //step 6: append a path elements
-        
-    });
-    
+    slider.oninput = function() {
+      output.innerHTML = this.value;
+    }
+  </script>
 
-</script>
+  <!-- script for bar chart -->
+  <script type="text/javascript">
+
+  </script>
 </body>
 </html>
