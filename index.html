@@ -195,13 +195,13 @@
               .attr("fill", "red")
               .attr("class", "points")
 
-            console.log(coordinates[0]);
+            //console.log(coordinates[0]);
         })
       }
 
       function updateMap() {
         let locs = svg.selectAll("circle").data(coordinates);
-        locs.exit().transition().attr("cy", 500).remove();
+        locs.exit().remove();
         locs.enter().append("circle")
         .attr("cx", function(d) {
           if(usaProjection(d) != null) {
@@ -243,10 +243,12 @@
 
       slider.oninput = function () {
           let selectedYear = this.value;
+          coordinates = [];
 
           output.innerHTML = selectedYear;
           for(let i=0; i<carYear.length; i++) {
             if(carYear[i] === selectedYear) {
+
               let point = [];
               point.push(parseInt(longitude[i], 10));
               point.push(parseInt(latitude[i], 10));
