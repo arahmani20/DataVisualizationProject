@@ -1,15 +1,3 @@
-#us-map,
-#header,
-#bar-chart {
-    border-style: solid;
-    border-radius: 20px;
-    border-width: 1px;
-    border-color: #007bff;
-    position:fixed;
-    top: 50%;
-
-}
-
 .states:hover {
     fill: #7084E6;
     fill-opacity: 12%;
@@ -52,5 +40,8 @@ p {
   text-align:center;
   text-transform: uppercase;
 }
-div {text-align: center;}
+div {text-align: center;
+      text-transform: uppercase;
+
+}
 

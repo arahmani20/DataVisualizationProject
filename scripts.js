@@ -153,7 +153,7 @@
         .append("g")
         .attr("fill", 'darkred')
         .selectAll("rect")
-        .data(data.sort((a, b) => d3.descending(a.year, b.year)))
+        .data(data.sort((a, b) => d3.ascending(a.year, b.year)))
         .join("rect")
         .attr("x", (d, i) => x(i))
         .attr("y", d => y(d.price))
@@ -170,7 +170,7 @@
 
       function xAxis(g) {
         g.attr("transform", `translate(0,${height - margin.bottom})`)
-          .call(d3.axisBottom(x).tickFormat(i => data.year))
+          .call(d3.axisBottom(x).tickFormat(i => data[i].year))
           .attr("font-size", '20px')
       }
 

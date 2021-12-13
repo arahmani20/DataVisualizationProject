@@ -48,46 +48,50 @@
   align-items: center;
   background-color:blanchedalmond ;">
 
-    <button class="btn btn-info tablink" onclick="openTab('First',this, 'rgb(1, 63, 83)')" id="defaultOpen">Map</button>
-    <button class="btn btn-info tablink" onclick="openTab('Second' ,this, 'rgb(1, 63, 83)')">Purchase 2000-2020</button>
-    <button class="btn btn-info tablink" onclick="openTab('Third' ,this, 'rgb(1, 63, 83)')">Median vs Year</button>
-    <button class="btn btn-info tablink" onclick="openTab('Fourth' ,this, 'rgb(1, 63, 83)')">Top 10</button>
-    <button class="btn btn-info tablink" onclick="openTab('Sixth' ,this, 'rgb(1, 63, 83)')">Top Colors</button>
-    <button class="btn btn-info tablink" onclick="openTab('Seventh' ,this, 'rgb(1, 63, 83)')">Car Types</button>
-    <button class="btn btn-info tablink" onclick="openTab('Eighth' ,this, 'rgb(1, 63, 83)')">Condition vs Color</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('First',this, 'rgb(1, 63, 83)')" id="defaultOpen">Map</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Second' ,this, 'rgb(1, 63, 83)')">Purchase 2000-2020</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Third' ,this, 'rgb(1, 63, 83)')">Median vs Year</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Fourth' ,this, 'rgb(1, 63, 83)')">Top 10</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Sixth' ,this, 'rgb(1, 63, 83)')">Top Colors</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Seventh' ,this, 'rgb(1, 63, 83)')">Car Types</button>
+    <button class="btn btn-info btn-lg tablink" onclick="openTab('Eighth' ,this, 'rgb(1, 63, 83)')">Condition vs Color</button>
   </div>
 
   <div id="First" class="tabcontent">
     <div class="column">
       <div class="row">
-        <div id="header" class=" container font-weight-bold text-white center"
-          style="background-color: rgb(1, 63, 83);  margin: 0 auto; text-align: center;">
+        <div class=" container font-weight-bold text-white center"
+          style="background-color: rgb(1, 63, 83);  margin: 0 auto; text-align: center; border-radius: 25px;">
           <h1>Visualization for used cars in USA</h1>
         </div>
       </div>
+    <div class="row">
       <div id="us-map" class="container-lg">
         <h2>US Map</h2>
         <div id="svg">
         </div>
         <div class="sliderContainer">
-          <input type="range" min="2000" max="2021" class="slider" id="yearsRange" value="2000">
-          <p>Year: <span id="displayYear"></span></p>
+          <input type="range" min="1949" max="2022" class="slider" id="yearsRange" value="1949">
+          <p>Model Year: <span id="displayYear"></span></p>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div id="bar-chart" class="container-lg my-1">
         <div style="text-align: center;">
-          <h1>Price - Year Graph</h1>
+          <h1>Price - Model Year (1949 - 2022) Graph</h1>
           <div id="d3-container"></div>
         </div>
       </div>
     </div>
+   </div>
     <div class="row">
       <div id="my_dataviz"></div>
     </div>
   </div>
 
   <div id="Second" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
     <img src="./assets/First.png" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>We can know that ‘2000 - 2008’ Vehicle purchase increases and ‘2009’ decreases.
         After ‘2009’ it increases again until ‘2017’ and then it starts to decrease again.</strong></p>
@@ -95,7 +99,7 @@
   </div>
 
   <div id="Third" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
     <img src="./assets/Second.png" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>The price keeps increasing year by year.</strong></p>      </div>
@@ -103,7 +107,7 @@
   </div>
 
   <div id="Fourth" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
     <img src="./assets/Third.png" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>The best seller model is Ford's f-150, and then, the second one is Chevrolet’s Silverado 1500</strong>
@@ -112,7 +116,7 @@
   </div>
 
   <div id="Sixth" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
     <img src="./assets/five.jpg" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>We can tell that the white color is the most popular one and then it goes to black and silver.</strong>
@@ -121,7 +125,7 @@
   </div>
 
   <div id="Seventh" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
     <img src="./assets/six.jpg" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>The most type is sedan, and next SUV pickup, truck </strong></p>      </div>
@@ -129,7 +133,7 @@
   </div>
 
   <div id="Eighth" class="tabcontent">
-    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <div class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
     <img src="./assets/seven.jpg" alt="Trulli" width="900" height="500">
     <p style="color: black;"><strong>From the figure, we can roughly say that the car condition has no difference by color.</strong></p>      </div>
