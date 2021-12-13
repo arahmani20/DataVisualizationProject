@@ -2,313 +2,165 @@
 <html>
 
 <head>
-    <meta charset="utf-8" http-equiv="encoding" />
+  <meta charset="utf-8" http-equiv="encoding" />
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Popper JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css" />
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+  <link rel="stylesheet"
+    href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
 
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+    integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-    <!-- Popper JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
 
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css" />
-
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-    <link rel="stylesheet"
-        href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
-
-    <link rel="stylesheet" href="./styles1.css">
-    <style>
-        html,
-        body {
-            width: 100%;
-            height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-    </style>
-    <style>
-        #map {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            right: 0;
-            left: 0;
-        }
-    </style>
-
-    <meta name="viewport" content="width=device-width,
+  <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles1.css">
+  <meta name="viewport" content="width=device-width,
   initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>
-        #map_12d7de26b4974ead8909c6eec67871d2 {
-            position: relative;
-            width: 100.0%;
-            height: 100.0%;
-            left: 0.0%;
-            top: 0.0%;
-        }
-    </style>
-
 
 </head>
 
-<body onload="openTab(event, 'First')">
+<body onload="loadData();" style="background-color: blanchedalmond;">
 
-    <div class="tab">
-        <button class="tablinks" onclick="openTab(event, 'First')">Map</button>
-        <button class="tablinks" onclick="openTab(event, 'Second')">Purchase 2000-2020</button>
-        <button class="tablinks" onclick="openTab(event, 'Third')">Median vs Year</button>
-        <button class="tablinks" onclick="openTab(event, 'Fourth')">Top 10</button>
-        <button class="tablinks" onclick="openTab(event, 'Sixth')">Top Colors</button>
-        <button class="tablinks" onclick="openTab(event, 'Seventh')">Car Types</button>
-        <button class="tablinks" onclick="openTab(event, 'Eighth')">Condition vs Color</button>
-    </div>
+  <div class="tab" style="height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:blanchedalmond ;">
 
+    <button class="btn btn-info tablink" onclick="openTab('First',this, 'rgb(1, 63, 83)')" id="defaultOpen">Map</button>
+    <button class="btn btn-info tablink" onclick="openTab('Second' ,this, 'rgb(1, 63, 83)')">Purchase 2000-2020</button>
+    <button class="btn btn-info tablink" onclick="openTab('Third' ,this, 'rgb(1, 63, 83)')">Median vs Year</button>
+    <button class="btn btn-info tablink" onclick="openTab('Fourth' ,this, 'rgb(1, 63, 83)')">Top 10</button>
+    <button class="btn btn-info tablink" onclick="openTab('Sixth' ,this, 'rgb(1, 63, 83)')">Top Colors</button>
+    <button class="btn btn-info tablink" onclick="openTab('Seventh' ,this, 'rgb(1, 63, 83)')">Car Types</button>
+    <button class="btn btn-info tablink" onclick="openTab('Eighth' ,this, 'rgb(1, 63, 83)')">Condition vs Color</button>
+  </div>
 
-    <div id="First" class="tabcontent">
-        <div id="header" class="container-lg p-4 my-1 bg-primary text-white">
-            <h1>Visualization for used cars in USA</h1>
+  <div id="First" class="tabcontent">
+    <div class="column">
+      <div class="row">
+        <div id="header" class=" container font-weight-bold text-white center"
+          style="background-color: rgb(1, 63, 83);  margin: 0 auto; text-align: center;">
+          <h1>Visualization for used cars in USA</h1>
         </div>
-        <div id="us-map" class="container-lg">
-            <h2>US Map</h2>
-            <div id="svg">
-
-            </div>
-            <div class="sliderContainer">
-                <input type="range" min="2000" max="2021" class="slider" id="yearsRange">
-                <p>Year: <span id="displayYear"></span></p>
-            </div>
+      </div>
+      <div id="us-map" class="container-lg">
+        <h2>US Map</h2>
+        <div id="svg">
         </div>
-
-        <div id="bar-chart" class="container-lg my-1">
-            <h2>Bar Chart</h2>
-            <div id="svg-bar">
-
-            </div>
+        <div class="sliderContainer">
+          <input type="range" min="2000" max="2021" class="slider" id="yearsRange" value="2000">
+          <p>Year: <span id="displayYear"></span></p>
         </div>
+      </div>
+      <div id="bar-chart" class="container-lg my-1">
+        <div style="text-align: center;">
+          <h1>Price - Year Graph</h1>
+          <div id="d3-container"></div>
+        </div>
+      </div>
     </div>
-
-    <div id="Second" class="tabcontent">
-        <img src="./assets/First.png" alt="Trulli" width="900" height="500">
-        <p><strong>We can know that ‘2000 - 2008’ Vehicle purchase increases and ‘2009’ decreases.
-After ‘2009’ it increases again until ‘2017’ and then it starts to decrease again.</strong></p>
+    <div class="row">
+      <div id="my_dataviz"></div>
     </div>
+  </div>
 
-    <div id="Third" class="tabcontent">
-        <img src="./assets/Second.png" alt="Trulli" width="900" height="500">
-                <p><strong>The price keeps increasing year by year.></p>
-    </div>
-    <div id="Fourth" class="tabcontent">
-        <img src="./assets/Third.png" alt="Trulli" width="900" height="500">
-        <p><strong>The best seller model is Ford's f-150, and then, the second one is Chevrolet’s Silverado 1500</strong></p>
-    </div>  
-     <div id="Sixth" class="tabcontent">
-        <img src="./assets/five.jpg" alt="Trulli" width="900" height="500">
-                 <p><strong>We can tell that the white color is the most popular one and then it goes to black and silver.</strong></p>
-    </div>
-     <div id="Seventh" class="tabcontent">
-        <img src="./assets/six.jpg" alt="Trulli" width="900" height="500">
-                 <p><strong>The most type is sedan, and next SUV pickup, truck </strong></p>
-    </div>
-     <div id="Eighth" class="tabcontent">
-        <img src="./assets/seven.jpg" alt="Trulli" width="900" height="500">
-                 <p><strong>From the figure, we can roughly say that the car condition has no difference by color.</strong></p>
-    </div>
+  <div id="Second" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+    <img src="./assets/First.png" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>We can know that ‘2000 - 2008’ Vehicle purchase increases and ‘2009’ decreases.
+        After ‘2009’ it increases again until ‘2017’ and then it starts to decrease again.</strong></p>
+      </div>
+  </div>
 
+  <div id="Third" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
+    <img src="./assets/Second.png" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>The price keeps increasing year by year.</strong></p>      </div>
 
-    <!--JAVASCRIPT HERE ONWARDS-->
+  </div>
 
-    <script>
-        function openTab(evt, cityName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablinks");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            document.getElementById(cityName).style.display = "block";
-            evt.currentTarget.className += " active";
-        }
-    </script>
+  <div id="Fourth" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
-    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    <img src="./assets/Third.png" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>The best seller model is Ford's f-150, and then, the second one is Chevrolet’s Silverado 1500</strong>
+    </p>      </div>
 
-    <!-- Script for US Map -->
-    <script type="text/javascript">
+  </div>
 
+  <div id="Sixth" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
-    let m = [-122.490402, 37.786453],
-        q = [-122.389809, 31.72728],
-        n = [-122.389809, 37.72728];
-    let coordinates = [m, n, q];
+    <img src="./assets/five.jpg" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>We can tell that the white color is the most popular one and then it goes to black and silver.</strong>
+    </p>      </div>
 
-      function loadMap(points) {
+  </div>
 
+  <div id="Seventh" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
 
+    <img src="./assets/six.jpg" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>The most type is sedan, and next SUV pickup, truck </strong></p>      </div>
 
-        console.log(points[0]);
+  </div>
+
+  <div id="Eighth" class="tabcontent">
+    <div id="header" class=" container font-weight-bold text-white center" style="margin: 0 auto;">
+
+    <img src="./assets/seven.jpg" alt="Trulli" width="900" height="500">
+    <p style="color: black;"><strong>From the figure, we can roughly say that the car condition has no difference by color.</strong></p>      </div>
+
+  </div>
+
+  <script type="text/javascript" src="scripts.js"></script>
+
+  <!--JAVASCRIPT HERE ONWARDS-->
 
 
-
-        let pathGenerator = null
-
-        let geoJsonUrl = ''
-        let aa = [-122.490402, 37.786453],
-            bb = [-122.389809, 37.72728];
-        let ds = [aa, bb];
-
-        pathGenerator = d3.geoPath().projection(usaProjection)
-        geoJsonUrl = "https://gist.githubusercontent.com/spiker830/e0d1b7950ced31369c903bed0cead7b1/raw/702c72e0ca5a1be95f84a50a58cfa6d4d6400f3f/us_features.json"
-
-        d3.json(geoJsonUrl).then(geojson => {
-            svg.selectAll("path")
-                .data(geojson.features)
-                .enter()
-                .append("path")
-                .attr("d", pathGenerator)
-                .attr("stroke", "grey")
-                .attr("fill", "white")
-                .attr("class", "states")
-
-            let pts = svg.selectAll("circle").data(coordinates);
-            pts.enter()
-              .append("circle")
-              .attr("cx", function(d) {
-                return usaProjection(d)[0];
-              })
-              .attr("cy", function(d) {
-                return usaProjection(d)[1];
-              })
-              .attr("r", "4px")
-              .attr("fill", "red")
-              .attr("class", "points")
-
-            //console.log(coordinates[0]);
-        })
+  <script>
+    function openTab(pageName, elmnt, color) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
       }
-
-      function updateMap() {
-        let locs = svg.selectAll("circle").data(coordinates);
-        locs.exit().remove();
-        locs.enter().append("circle")
-        .attr("cx", function(d) {
-          if(usaProjection(d) != null) {
-            return usaProjection(d)[0];
-        }
-          return aa[0];
-        })
-        .attr("cy", function(d) {
-          if(usaProjection(d) != null) {
-            return usaProjection(d)[1];
-        }
-          return aa[1];
-        })
-        .attr("r", "4px")
-        .attr("fill", "red")
-        .attr("class", "points")
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
       }
-
-    </script>
-    <!--script for slider -->
-    <script type="text/javascript">
-    let manufacturer = [],
-      carYear = [],
-      model = [],
-      price = [],
-      latitude = [],
-      longitude = [],
-      state = [],
-      fullData = [],
-      postingDate = [];
-
-
-    function loadSlider() {
-      let slider = document.getElementById("yearsRange");
-      let output = document.getElementById("displayYear");
-      output.innerHTML = slider.value;
-
-      loadData();
-
-      slider.oninput = function () {
-          let selectedYear = this.value;
-          coordinates = [];
-
-          output.innerHTML = selectedYear;
-          for(let i=0; i<carYear.length; i++) {
-            if(carYear[i] === selectedYear) {
-
-              let point = [];
-              point.push(parseInt(longitude[i], 10));
-              point.push(parseInt(latitude[i], 10));
-              coordinates.push(point);
-
-
-              //console.log(coordinates[i]);
-            }
-          }
-          updateMap();
-          //d3.selectAll(".mapusa").remove();
-          //loadMap(coordinates);
-          //console.log(manufacturer[selectedYear]);
-      }
+      document.getElementById(pageName).style.display = "block";
+      elmnt.style.backgroundColor = color;
     }
 
-    function loadData() {
-      try {
-        d3.csv("./data/vehicles.csv").then(function(data) {
-          fullData = data;
-          data.map(function(d) {
-            //fullData.push(d);
-            manufacturer.push(d.manufacturer);
-            carYear.push(d.year);
-            model.push(d.model);
-            price.push(d.price);
-            latitude.push(d.lat);
-            longitude.push(d.long);
-            postingDate.push(d.posting_date);
-            state.push(d.state);
-          });
-        });
-      } catch (e) {
-        console.log("ERROR");
-      }
-    }
-    </script>
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+  </script>
 
-    <!-- script for bar chart -->
-    <script type="text/javascript">
-
-    </script>
-
-    <!-- Driver code -->
-    <script type="text/javascript">
-    let usaProjection = d3.geoAlbersUsa()
-        .scale(850)
-        .translate([550, 250]);
-    let aa = [-85.48, 32.59],
-        bb = [-122.389809, 37.72728];
-      let ds = [aa, bb];
-      let width = 900, height = 500;
-      let svg = d3.select("#svg").append("svg")
-          .attr("width", width)
-          .attr("height", height)
-          .attr("class", "mapusa")
-      loadSlider();
-      loadMap(ds);
-    </script>
 </body>
+
 
 </html>
