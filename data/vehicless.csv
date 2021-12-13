@@ -1,0 +1,1503 @@
+price,year,manufacturer,model,odometer,type,paint_color,state,lat,long
+30000,1963,chevrolet,nova ss,12345,,,al,34.9804,-86.8346
+12500,1979,,mg midget,41000,,,al,34.9804,-86.8346
+15900,2013,lexus,es 350,81000,sedan,white,al,34.708978,-86.586316
+27800,2018,honda,odyssey touring elite,32800,,brown,al,34.324575,-86.30224
+20995,2011,chevrolet,silverado 1500 ltz crew cab 4wd,137701,pickup,,al,33.971956,-86.053098
+25995,2015,chevrolet,silverado 1500 lt crew cab 4wd,151681,pickup,,al,33.971956,-86.053098
+31995,2014,chevrolet,silverado 1500 2lt crew cab long box 4wd,66738,pickup,,al,33.971956,-86.053098
+7800,1999,toyota,tacoma,242068,truck,green,al,34.712796,-86.574647
+10554,2015,hyundai,sonata 1.6t eco,83874,,,al,34.735061,-86.624715
+11869,2008,bmw,3 series 335i,82516,,,al,34.735061,-86.624715
+6900,2006,pontiac,solstice,106000,convertible,blue,al,34.7782,-86.7442
+6500,2007,subaru,forrester,148980,hatchback,black,al,34.7448,-86.6704
+15990,2016,chevrolet,cruze limited ltz,46252,sedan,black,al,34.57,-86.98
+24989,2006,,HUMMER H2,124175,SUV,,al,36.138037,-86.731163
+6999,2012,honda,civic,120800,sedan,brown,al,34.734,-86.5229
+16500,2013,cadillac,xts platinum,53857,,white,al,34.5494,-86.3961
+4300,2004,honda,accord,180000,sedan,silver,al,34.928276,-86.986141
+36990,2018,gmc,sierra 1500 double cab sle,23424,pickup,black,al,34.57,-86.98
+10977,2011,audi,q5,110574,SUV,grey,al,36.138037,-86.731163
+23900,2015,ram,1500,107670,pickup,silver,al,35.59352,-87.05396
+6000,2013,ford,transit connect,170000,,white,al,34.6679,-86.5603
+18400,2012,ford,f-150,159936,pickup,white,al,35.59352,-87.05396
+5500,2007,honda,accord se,155000,sedan,white,al,34.5968,-86.5217
+23699,2012,chevrolet,silverado,102212,pickup,red,al,35.59352,-87.05396
+2900,2003,,YAMAHA XVS650/A/C/AC/AT/ATC/V ST,36737,other,black,al,35.59352,-87.05396
+0,2017,ram,pickup 2500,129488,truck,silver,al,,
+6900,2015,honda,cbr650,16402,other,red,al,35.59352,-87.05396
+0,2015,mercedes-benz,s-class,78807,sedan,grey,al,,
+14900,2007,toyota,tacoma double cab sr5,163211,truck,blue,al,34.6215,-86.4644
+16495,2008,ford,f-150 supercrew limited,154069,truck,white,al,34.779434,-86.921296
+8300,2013,dodge,avenger r/t,67500,sedan,white,ak,61.574681,-149.384766
+6900,1999,ford,ranger,999999,,,ak,61.20779,-149.870832
+3500,1997,mercury,mountaineer,999999,,white,ak,61.20779,-149.870832
+8300,2013,dodge,avenger,67500,sedan,white,ak,61.5923,-149.3959
+22500,2012,toyota,4runner,100710,,,ak,61.2037,-149.7447
+26995,2009,chevrolet,silverado,128701,other,white,ak,61.16167,-149.86312
+31999,2019,ford,ranger xlt,32933,truck,silver,ak,61.166353,-149.847206
+37999,2014,ram,2500 slt 6.7 diesel,79881,truck,white,ak,61.166353,-149.847206
+29999,2015,ram,1500 slt,66366,truck,silver,ak,61.166353,-149.847206
+25999,2016,subaru,wrx,105055,sedan,blue,ak,61.166353,-149.847206
+13999,2017,volkswagen,jetta 1.4t s,40312,sedan,grey,ak,61.166353,-149.847206
+26999,2008,,Hummer H2 SUT Luxury,117981,SUV,blue,ak,61.166353,-149.847206
+27999,2013,lexus,gs 350 awd,63629,sedan,silver,ak,61.166353,-149.847206
+24995,2013,ford,f-250,101462,pickup,red,ak,61.16167,-149.86312
+32999,2014,jeep,grand cherokee srt8,102000,SUV,grey,ak,61.166353,-149.847206
+18999,2015,mini,countryman cooper s,66566,hatchback,brown,ak,61.166353,-149.847206
+39995,2015,ram,2500,115148,pickup,brown,ak,61.16167,-149.86312
+44999,2015,rover,,62052,SUV,white,ak,61.166353,-149.847206
+2800,1988,chevrolet,rally,999999,,,ak,61.2116,-149.8761
+11999,2008,ford,escape limited,101550,SUV,red,ak,61.166353,-149.847206
+16991,2018,kia,rio,19010,sedan,white,ak,61.180231,-149.869503
+29995,2017,jeep,grand cherokee,52880,SUV,white,ak,61.16167,-149.86312
+11000,2017,ford,fiesta se,53000,hatchback,grey,ak,59.8666,-158.5996
+10999,2003,toyota,4 runner sr5,291341,SUV,black,ak,61.166353,-149.847206
+25999,2017,ford,mustang premium,66022,convertible,red,ak,61.166353,-149.847206
+26995,2016,ford,f-150,100825,pickup,,ak,61.16167,-149.86312
+8200,1970,,Opel GT,37160,other,yellow,ak,61.54621,-149.498391
+25995,2019,jeep,compass,23990,SUV,white,ak,61.16167,-149.86312
+25995,2019,gmc,terrain,27173,SUV,black,ak,61.16167,-149.86312
+20991,2011,gmc,yukon,135636,SUV,black,ak,61.180231,-149.869503
+14194,2017,chevrolet,sonic,11318,sedan,red,ak,61.176984,-149.86941
+119999,2000,,AM General Hummer H1,56322,SUV,,az,33.454195,-111.926096
+6800,2006,toyota,prius hybrid,175000,,,az,33.5761,-112.2344
+44952,2016,chevrolet,silverado 1500 lt crew,28852,other,,az,33.3887,-111.8428
+27995,2014,ram,3500,257508,pickup,,az,33.327848,-111.841594
+22600,2015,audi,q7 3.0t premium plus,70685,other,black,az,33.569105,-112.06387
+27000,2012,ford,mustang,9000,,,az,33.1911,-111.528
+9500,2014,nissan,nv200 cargo van,123000,,,az,33.3301,-111.8632
+31990,2018,subaru,wrx sti sedan 4d,46183,sedan,blue,az,33.44,-112.08
+18990,2017,toyota,prius two hatchback 4d,57500,hatchback,silver,az,33.44,-111.8
+500,2012,fiat,500,100000,other,custom,az,33.3851,-111.8724
+31995,2017,ford,f-150,62705,,,az,33.327848,-111.841594
+4600,2002,volkswagen,,167000,truck,blue,az,33.6048,-112.2237
+5200,2006,ford,f-250,328000,,,az,33.29427,-111.967635
+22995,2015,ram,1500,137425,pickup,silver,az,33.458277,-111.92597
+5900,2003,mercedes-benz,benz e320,137000,sedan,silver,az,33.466113,-112.121068
+10200,1991,jeep,wrangler islander,52100,SUV,red,az,33.501569,-111.928501
+4995,2012,nissan,altima,179040,other,blue,az,33.41709,-111.59987
+500,2015,,Flexible Down Payments,500,,,az,33.407478,-111.868393
+11991,2012,gmc,terrain sle-2,91868,other,,az,33.416084,-111.791486
+31990,2018,ford,explorer xlt sport utility,5769,other,blue,az,33.51,-112.36
+20990,2018,toyota,c-hr xle premium sport,14835,hatchback,,az,33.44,-111.8
+21590,2013,cadillac,xts luxury collection,36281,sedan,blue,az,33.44,-111.8
+54995,2014,ram,2500,79256,pickup,black,az,33.458277,-111.92597
+53877,,,ierra 1500,14396,pickup,blue,az,33.437098,-111.925724
+17500,2011,gmc,sierra 1500,160000,,silver,az,33.6024,-112.1475
+20000,1999,ford,e350 passenger van extended,64000,,,az,34.4958,-112.3783
+4200,2007,toyota,corolla ce,178000,sedan,grey,az,33.5291,-112.2482
+0,2016,chevrolet,silverado 2500hd 4wd c,87862,other,,az,33.640251,-112.014798
+7500,2000,ford,excursion,275134,SUV,black,az,33.684238,-112.102735
+17997,2008,chevrolet,silverado 1500,150564,pickup,grey,az,33.684238,-112.102735
+34997,2020,chevrolet,silverado 1500,13695,pickup,,az,33.684238,-112.102735
+33590,2014,gmc,sierra 1500 crew cab slt,57923,pickup,white,ar,35.82,-90.68
+36590,2013,chevrolet,corvette grand sport,79156,other,,ar,35.82,-90.68
+53995,2020,chevrolet,silverado 1500,8124,truck,,ar,36.059843,-91.909949
+26995,2020,ford,edge,15524,SUV,red,ar,36.059843,-91.909949
+39590,2019,chevrolet,silverado 1500 crew,21014,pickup,brown,ar,35.82,-90.68
+2900,2007,ford,freestyle limited,308000,SUV,blue,ar,35.8404,-90.704
+4995,2009,subaru,outback awd20,218650,wagon,silver,ar,35.808949,-90.66922
+9500,1991,ram,2500 cummins,128000,,,ar,36.4076,-91.5757
+26990,2017,nissan,titan single cab sv,41335,pickup,red,ar,35.82,-90.68
+16300,2012,chevrolet,silverado 1500,111236,,,ar,35.5882,-90.562
+30995,2018,nissan,pathfinder,33565,SUV,,ar,36.059843,-91.909949
+7950,2008,chevrolet,silverado,275000,,,ar,35.994258,-90.537472
+7950,2007,gmc,yukon,261000,,,ar,35.99398,-90.536957
+7950,2012,ram,,240000,,,ar,35.994952,-90.537643
+7600,2014,ford,f150,234000,,,ar,35.994535,-90.537643
+6100,2003,nissan,frontier crew cab,178000,,,ar,35.993841,-90.537815
+5000,1999,toyota,tacoma,205000,,,ar,35.994258,-90.537815
+15990,2017,ford,c-max hybrid se wagon 4d,48195,wagon,blue,ar,35.82,-90.68
+5800,2007,ram,,175000,,,ar,35.994119,-90.537643
+4950,2007,ram,,232000,,,ar,35.993841,-90.538158
+4750,2007,honda,odyssey,263000,,,ar,35.994397,-90.537987
+4600,2008,mercury,milan,191000,,,ar,35.994674,-90.5373
+20990,2020,honda,fit sport hatchback 4d,1668,hatchback,white,ar,35.82,-90.68
+27990,2012,gmc,sierra 2500 hd extended cab,68696,pickup,black,ar,35.82,-90.68
+11850,2015,jeep,cherokree,127323,SUV,grey,ar,35.808949,-90.66922
+3750,2006,chevrolet,cobalt,136343,sedan,white,ar,35.808949,-90.66922
+7350,2013,chrysler,200 limited,104627,sedan,grey,ar,35.808949,-90.66922
+11550,2016,dodge,journey,91323,SUV,red,ar,35.808949,-90.66922
+24995,2017,lincoln,mkx,56401,SUV,,ar,36.059843,-91.909949
+41995,2018,chevrolet,silverado 1500,74448,truck,white,ar,36.059843,-91.909949
+14900,2015,gmc,acadia slt,112846,,,ar,36.315551,-91.484087
+16900,2014,buick,enclave,97847,,,ar,36.3227,-91.411
+29990,2017,jeep,wrangler sport suv 2d,22947,other,,ar,35.82,-90.68
+32500,1987,volkswagen,vanagon,177313,mini-van,blue,ca,35.393662,-119.017503
+0,2015,gmc,sierra 1500,106993,,white,ca,34.070311,-117.446303
+0,2018,hyundai,accent,55985,sedan,silver,ca,34.4802,-117.4082
+0,2020,gmc,sierra 2500hd,9143,,white,ca,34.070311,-117.446303
+13999,2010,lexus,rx 350,115012,SUV,blue,ca,33.7938,-118.3172
+5995,2011,nissan,leaf,52396,hatchback,silver,ca,35.248476,-118.936316
+7995,2013,chrysler,200,102161,,,ca,35.248476,-118.936316
+11995,2015,nissan,altima ￼,102457,sedan,black,ca,35.248476,-118.936316
+17995,2018,honda,civic,33603,sedan,grey,ca,35.248476,-118.936316
+12995,2012,toyota,corolla s,80410,sedan,blue,ca,35.248476,-118.936316
+0,2016,honda,crv ex awd,87775,SUV,white,ca,36.32725,-119.276729
+0,2015,ram,2500,106346,,,ca,34.070311,-117.446303
+0,2016,honda,civic sedan,43794,sedan,,ca,34.4802,-117.4082
+23990,2013,lexus,gs 350 sedan 4d,39664,sedan,brown,ca,35.38,-119.02
+29990,2016,chevrolet,colorado extended cab,17302,pickup,red,ca,35.38,-119.02
+25500,2014,chevrolet,camaro rs,29500,coupe,red,ca,35.3935,-119.1205
+9600,1999,ram,2500,307000,,,ca,39.9296,-122.196
+8400,2005,chevrolet,suburban 2500,179000,,,ca,35.3855,-118.986
+25590,2018,mercedes-benz,c-class c 300,33640,sedan,blue,ca,35.38,-119.02
+16990,2013,acura,tl special edition sedan,67448,sedan,silver,ca,35.38,-119.02
+97995,2019,mercedes-benz,sprinter 2500,1010,,,ca,35.3866,-119.0171
+11200,2014,toyota,camry,44000,sedan,white,ca,35.463637,-118.789785
+7000,2005,toyota,4runner,280000,SUV,,ca,35.19414,-119.174405
+0,2014,jeep,wrangler sahara 4wd,83862,offroad,silver,ca,36.32725,-119.276729
+0,2008,,WORKHORSE W42,,other,black,ca,25.59352,-80.361752
+36950,2007,ram,2500 quad cab,121349,truck,silver,ca,33.794656,-117.992994
+31950,2006,ford,f250 super duty,98740,truck,grey,ca,33.794656,-117.992994
+36950,2018,chevrolet,silverado 2500 hd,97602,truck,white,ca,33.794656,-117.992994
+9000,1981,chevrolet,blazer,10,other,custom,ca,36.8579,-119.7655
+15000,2010,nissan,370z roadster,47000,,,ca,36.059961,-119.537079
+2600,2000,nissan,altima,180000,,,ca,34.4336,-118.5007
+8300,2006,jeep,wrangler sport,212800,SUV,green,co,40.611268,-104.917022
+10500,2008,chevrolet,tahoe,181000,SUV,black,co,40.4109,-104.7541
+17000,2009,ford,f250 super duty,187734,,,co,39.920105,-104.792576
+2300,2005,saturn,vue,207000,,,co,40.3803,-104.6971
+8500,1988,ford,bronco,182000,SUV,blue,co,40.3849,-105.0916
+19495,2018,subaru,outback,108477,SUV,red,co,40.392756,-104.727851
+21995,2018,ford,explorer,111799,SUV,black,co,40.392756,-104.727851
+29995,2018,chevrolet,silverado 1500,104910,truck,black,co,40.392756,-104.727851
+0,2005,toyota,prius,226000,,green,co,40.114685,-104.971971
+20990,2014,bmw,4 series 428i xdrive coupe,52326,coupe,blue,co,40.55,-105.06
+24590,2016,bmw,x3 xdrive28i sport utility,44705,other,blue,co,40.55,-105.06
+16993,1991,toyota,land cruiser awd,164235,SUV,grey,co,39.998,-105.0963
+18990,2017,hyundai,tucson sport suv 4d,47185,other,black,co,40.55,-105.06
+22590,2017,ram,1500 regular cab tradesman,39508,pickup,white,co,40.55,-105.06
+24990,2014,acura,mdx sport utility 4d,34184,other,white,co,40.55,-105.06
+27990,2020,ford,ranger supercab xl pickup,10688,pickup,white,co,40.55,-105.06
+38990,2019,toyota,tundra crewmax sr5 pickup,15520,pickup,silver,co,40.55,-105.06
+38990,2019,toyota,4runner limited sport,11877,other,white,co,40.55,-105.06
+18990,2017,mini,hardtop 2 door cooper,22259,hatchback,,co,40.55,-105.06
+15999,1973,ford,mustang,0,,silver,co,40.423021,-104.741618
+44999,1967,ford,mustang,13510,SUV,silver,co,40.423021,-104.741618
+4999,1988,chevrolet,suburban,0,SUV,blue,co,40.423021,-104.741618
+3750,2007,toyota,yaris,189026,sedan,red,co,40.589199,-105.074448
+3450,2000,subaru,forester,227355,wagon,,co,40.589199,-105.074448
+7993,1986,ford,ranger xlt 4x4,93397,truck,red,co,39.998,-105.0963
+23988,2014,mercedes-benz,gl-class,102550,other,,co,40.377978,-105.073812
+14999,2015,infiniti,q50 base,57623,sedan,,co,40.182151,-105.102373
+2500,1985,chevrolet,silverado,130000,pickup,brown,co,40.444036,-105.077491
+15000,2013,volvo,xc90,77000,SUV,grey,co,40.5273,-104.7146
+21895,2013,chevrolet,silverado ltz,86000,,,co,40.8233,-96.6766
+7995,2010,,JEEP* PATRIOT*,104022,other,silver,ct,41.658369,-72.866606
+1500,1997,dodge,dakota sport quad cab,209000,truck,red,ct,41.6667,-72.7722
+8998,2012,subaru,impreza,133374,wagon,blue,ct,41.931038,-72.767128
+7998,2010,subaru,legacy,95353,sedan,silver,ct,41.931038,-72.767128
+7998,2010,subaru,forester,146146,SUV,silver,ct,41.931038,-72.767128
+17995,2013,chevrolet,express,88542,van,white,ct,42.13448,-70.950051
+3800,2010,chevrolet,hhr ls panel,170000,truck,white,ct,41.6052,-72.8727
+19995,2015,ford,transit,96346,van,white,ct,42.13448,-70.950051
+26590,2017,nissan,titan xd single cab sv,47267,pickup,white,ct,41.76,-72.68
+7800,2006,,C230 S,56000,sedan,yellow,ct,41.7013,-72.6763
+3500,2006,volvo,s60,169890,sedan,blue,ct,41.7073,-72.5727
+4500,2009,honda,accord,155000,sedan,green,ct,41.8561,-72.6639
+17495,2018,honda,accord lx,90,sedan,black,ct,42.698418,-71.181014
+28999,2018,acura,tlx,63006,other,grey,ct,,
+18500,1991,rover,,90000,SUV,silver,ct,41.766,-72.672
+8995,2001,bmw,z3 roadster,122000,convertible,blue,ct,41.9661,-72.2899
+11495,2011,toyota,sienna,132998,wagon,silver,ct,40.894535,-74.152367
+18495,2015,subaru,wrx,108546,sedan,,ct,40.894535,-74.152367
+14495,2012,ford,explorer,131090,SUV,white,ct,40.894535,-74.152367
+19995,2008,ford,f-450,142907,other,green,ct,40.894535,-74.152367
+11995,2009,cadillac,escalade,195366,SUV,black,ct,40.894535,-74.152367
+13495,2013,bmw,5 series,89198,other,grey,ct,41.904839,-72.612814
+388,2002,mercury,sable,150000,,,ct,41.448297,-72.828444
+3500,2003,chevrolet,malibu,126137,,,ct,41.766,-72.6718
+19500,1950,,MG TD,15000,convertible,black,ct,41.7316,-73.4583
+15500,2013,toyota,rav4,59718,,red,ct,41.6412,-72.4609
+27990,2017,chevrolet,colorado extended cab,22120,pickup,,ct,41.76,-72.68
+8995,2008,,ACURA* MDX*,135356,other,silver,ct,41.658369,-72.866606
+36990,2015,chevrolet,tahoe lt sport utility,51677,other,black,ct,41.76,-72.68
+18590,2017,mazda,mazda3 touring 2.5,34723,hatchback,blue,ct,41.76,-72.68
+36990,2018,audi,s5 premium plus coupe 2d,46298,coupe,white,dc,38.89,-77.03
+32000,2016,ford,f-150,85461,pickup,black,dc,38.91706,-77.46954
+38990,2014,toyota,fj cruiser sport utility,66710,other,,dc,38.89,-77.03
+31590,2017,lexus,rx 350 sport utility 4d,28185,SUV,silver,dc,38.89,-77.03
+35990,2019,,Genesis G80 3.8 Sedan 4D,8674,sedan,white,dc,38.89,-77.03
+34590,2019,chevrolet,silverado 1500 ld,22722,pickup,brown,dc,38.89,-77.03
+28590,2018,buick,regal tourx essence wagon,24672,wagon,,dc,38.89,-77.03
+23590,2018,toyota,avalon hybrid xle plus,80000,sedan,black,dc,38.89,-77.03
+22590,2017,ram,1500 regular cab tradesman,39508,pickup,white,dc,38.89,-77.03
+21590,2017,buick,regal premium ii sedan 4d,14934,sedan,white,dc,38.89,-77.03
+30990,2020,hyundai,veloster n coupe 3d,6568,coupe,white,dc,38.89,-77.03
+27990,2016,honda,pilot ex-l sport utility,27085,other,blue,dc,38.89,-77.03
+6500,2001,bmw,z3 convertible,86100,convertible,silver,dc,38.95778,-77.076817
+13000,2012,toyota,rav4 limited sport,120000,,,dc,38.8867,-77.4457
+22990,2020,mitsubishi,eclipse cross le,11215,hatchback,black,dc,38.89,-77.03
+18990,2012,acura,tsx sedan 4d,36309,sedan,black,dc,38.89,-77.03
+29990,2018,toyota,rav4 hybrid limited sport,14520,other,red,dc,38.89,-77.03
+11995,2013,ford,e350,211000,,grey,dc,38.7707,-77.4494
+18995,2017,ford,transit connect,50000,,white,dc,38.7707,-77.4494
+32699,,,des-Benz GLC,36890,SUV,black,dc,39.172413,-77.164637
+27900,,,des-Benz C-Class,34577,sedan,black,dc,39.172413,-77.164637
+9450,2007,volkswagen,eos,81476,convertible,,dc,38.91542,-77.47277
+16995,2013,chevrolet,express 2500,160000,,white,dc,38.7707,-77.4494
+19250,2015,honda,accord ex-l,51200,sedan,grey,dc,38.853327,-77.196411
+0,2018,toyota,sienna awd,25714,other,black,dc,38.823449,-76.947378
+0,2013,mercedes-benz,glk,74315,SUV,grey,dc,,
+4495,2003,mercury,sable,103141,sedan,,dc,39.10593,-77.56718
+29990,2018,dodge,charger gt plus sedan 4d,20595,sedan,white,fl,30.33,-81.65
+28800,2004,lexus,gx 470,147000,SUV,silver,fl,,
+17600,2015,,kaufman,1,truck,,fl,30.2231,-81.7556
+19999,2002,lexus,lx 470,195000,SUV,blue,fl,,
+4200,2006,honda,odyssey,150,,,fl,30.2407,-81.617
+6000,2008,nissan,altima 2.5 s,90617,sedan,white,fl,30.4507,-81.6626
+47995,2019,dodge,2500 big horn crew cab,28262,,grey,fl,28.758455,-81.286395
+47376,2019,ford,f150 xlt 4wd,20238,,,fl,29.801076,-82.529678
+57900,2000,chevrolet,f7b042,189140,truck,white,fl,30.318518,-81.524592
+8900,2005,ford,freestar,102902,van,brown,fl,30.318518,-81.524592
+19900,2011,honda,odyssey,142153,van,black,fl,30.318518,-81.524592
+9900,2006,dodge,grand caravan,174310,van,white,fl,30.318518,-81.524592
+3600,2003,honda,cr-v,290836,SUV,custom,fl,30.318518,-81.524592
+5500,2003,honda,civic,216375,hatchback,black,fl,30.318518,-81.524592
+7500,2006,mercedes-benz,benz s500,124500,sedan,silver,fl,30.1548,-81.63
+73000,2016,tesla,s p100d,24350,sedan,grey,fl,30.1548,-81.63
+5500,2003,chevrolet,silverado,250000,,,fl,30.3937,-81.6889
+11400,2007,chevrolet,tahoe,138863,SUV,black,fl,28.7644,-81.282
+26900,2013,ford,f-150 xlt,126510,truck,,fl,27.5885,-80.3923
+29999,2008,ford,f350 super duty crew cab,147799,pickup,black,fl,28.8013,-81.285
+68500,2021,toyota,4 runner trd pro,865,SUV,grey,fl,30.2214,-81.5571
+29900,2016,ford,mustang gt premium,93603,coupe,,fl,27.5885,-80.3923
+7990,2007,mercedes-benz,benz ml350,131000,SUV,white,fl,30.28679,-81.554174
+11500,2012,nissan,pathfinder silver,138500,SUV,white,fl,30.60548,-81.491629
+30990,2013,chevrolet,camaro ss coupe 2d,14112,coupe,orange,fl,30.33,-81.65
+38590,2017,nissan,titan xd crew cab sv,26539,pickup,black,fl,30.33,-81.65
+24590,2017,chevrolet,silverado 1500 regular,40784,pickup,white,fl,30.33,-81.65
+27990,2014,toyota,tacoma access cab pickup,17805,pickup,red,fl,30.33,-81.65
+14200,2016,nissan,altima,62727,sedan,,fl,28.329026,-81.404237
+11900,1995,lexus,sc400,111250,coupe,green,fl,30.639684,-81.453495
+13500,2014,lexus,ct,93538,hatchback,red,fl,28.329026,-81.404237
+5500,2004,honda,accord ex-l,146700,sedan,silver,fl,27.7723,-82.6386
+55000,2016,,kenworth t680,680000,truck,white,fl,30.403566,-81.742667
+36990,2018,gmc,sierra 1500 double cab sle,23424,pickup,black,fl,30.33,-81.65
+34990,2018,toyota,tacoma double cab trd,13147,pickup,red,fl,30.33,-81.65
+14850,2017,jeep,compass,72034,SUV,black,fl,28.329026,-81.404237
+9000,2016,chevrolet,impala,44259,sedan,white,fl,30.394,-81.689
+33590,2019,ford,ranger supercrew xl pickup,33424,pickup,white,fl,30.33,-81.65
+16990,2016,kia,forte koup ex coupe 2d,17631,coupe,,fl,30.33,-81.65
+5200,2008,toyota,sienna,193000,mini-van,white,fl,30.288479,-81.578134
+7988,2012,jeep,compass,114195,SUV,,fl,30.2787,-81.5831
+1450,2003,ford,taurus,311889,,grey,fl,30.025223,-82.350266
+19958,2017,volkswagen,e-golf,26535,hatchback,black,ga,34.087409,-83.945058
+22795,2015,mercedes-benz,c-class,67870,sedan,silver,ga,33.669601,-86.817617
+19958,2016,volkswagen,beetle,34842,hatchback,silver,ga,34.087409,-83.945058
+7000,2012,nissan,altima,80000,,white,ga,33.4944,-84.3797
+7990,2015,toyota,corolla,204256,sedan,grey,ga,34.087409,-83.945058
+9587,2013,nissan,sentra,920152,sedan,custom,ga,33.575891,-84.543792
+0,2007,infiniti,fx35,1,,,ga,33.8332,-84.6031
+1600,2020,dodge,charger,1,,,ga,33.8332,-84.6031
+0,2021,dodge,charger,1,,,ga,33.8332,-84.6031
+3999,2008,chrysler,sebring 4dr sedan lx f,143476,sedan,,ga,33.899031,-84.246876
+0,2008,dodge,charger r/t,1,,,ga,33.8332,-84.6031
+39500,2016,gmc,yukon xl denali,91351,SUV,,ga,27.5885,-80.3923
+29977,2005,chevrolet,corvette,20732,coupe,red,ga,34.087409,-83.945058
+39500,2016,gmc,yukon xl denali,91351,SUV,,ga,27.5885,-80.3923
+0,2008,honda,accord coupe,0,coupe,white,ga,33.871048,-84.298176
+0,2006,honda,accord sedan,0,sedan,silver,ga,33.871048,-84.298176
+18990,2014,volkswagen,touareg,75108,SUV,grey,ga,34.087409,-83.945058
+17900,2013,ford,explorer xlt,86880,SUV,white,hi,21.331156,-157.884323
+17900,2012,audi,q5 3.2 quattro premium plus,87379,SUV,black,hi,21.331156,-157.884323
+6800,2012,subaru,forester,134000,,grey,hi,19.6748,-155.0646
+5000,2007,honda,accord 4-door sedan,117300,sedan,,hi,19.596407,-154.993658
+4000,1992,ram,,100000,truck,,hi,22.2073,-159.3954
+21000,2017,ford,,70000,van,white,hi,21.2928,-157.7552
+9000,2007,ford,explorer,181926,,,hi,21.908386,-159.707445
+1200,2010,mazda,5,115000,hatchback,red,hi,21.318689,-157.863401
+2950,2016,,Fuel,7000,,,hi,20.0827,-155.488
+37988,2014,toyota,fj cruiser 4x4,86834,,,hi,21.3488,-157.8759
+37988,2014,toyota,fj cruiser 4x4,86834,,,hi,21.3488,-157.8759
+37988,2014,toyota,fj cruiser 4x4,86834,,,hi,21.3488,-157.8759
+22950,2011,jeep,wrangler,75880,SUV,black,hi,21.9816,-159.3683
+37988,2014,toyota,fj cruiser,86834,,,hi,21.3488,-157.8759
+19995,2012,nissan,frontier sv crew cab,100264,truck,black,hi,20.774332,-156.452715
+17995,2010,toyota,tacoma,116379,truck,silver,hi,20.774512,-156.452758
+53995,2017,toyota,tundra trd 4x4,53639,truck,grey,hi,20.774512,-156.452758
+7000,2008,bmw,528i,119000,sedan,blue,hi,20.7441,-156.4475
+10999,2016,kia,soul,84949,wagon,,hi,21.490687,-158.030906
+15995,2017,hyundai,elantra se,43321,sedan,silver,hi,20.569559,-156.50493
+21995,2017,acura,ilx,48182,sedan,blue,hi,20.569559,-156.50493
+19990,2012,toyota,4-runner,161004,wagon,black,hi,21.33539,-157.89922
+33500,2019,subaru,impreza wrx premium,7276,,,hi,19.725241,-155.058911
+28999,2017,alfa-romeo,romeo giulia q4 awd gas,18702,sedan,white,id,47.65613,-117.236949
+77999,2020,ram,diesels cummins 3500,3797,truck,white,id,47.65613,-117.236949
+39999,2018,toyota,tacoma trd off road 4x4,22236,truck,red,id,47.65613,-117.236949
+43999,2019,toyota,lifted tacoma trd off 4x4,23120,truck,grey,id,47.65613,-117.236949
+29799,2018,chrysler,300 s awd gas sedan,28748,sedan,silver,id,47.65613,-117.236949
+29980,2017,ford,flex,45154,SUV,red,id,47.692931,-117.411632
+12999,2011,volkswagen,golf,68925,hatchback,grey,id,47.656773,-117.218613
+86999,2020,ford,f350 deisel power stroke,5873,truck,black,id,47.65613,-117.236949
+11999,2011,mini,hardtop,84444,hatchback,red,id,47.656773,-117.218613
+17000,2017,chevrolet,cruze eco diesel,34300,sedan,silver,id,46.88,-117.367
+34999,2012,chevrolet,silverado 2500 hd lt,69483,truck,silver,id,47.65613,-117.236949
+9999,2017,mitsubishi,mirage g4,62482,sedan,white,id,47.656773,-117.218613
+69999,2020,ford,f350 diesel powerstroke,12589,truck,white,id,47.65613,-117.236949
+46999,2019,ford,lifted f150 xlt fx4 4x4 gas,17170,truck,white,id,47.65613,-117.236949
+34999,2015,ford,f-150,86796,pickup,,id,47.656773,-117.218613
+46447,2019,gmc,sierra 1500 4x4 half ton gas,14947,truck,white,id,47.65613,-117.236949
+18999,2016,chevrolet,traverse,108804,SUV,black,id,47.656773,-117.218613
+39999,2015,toyota,tundra sr5 trd offroad,83003,truck,silver,id,47.65613,-117.236949
+8999,2007,toyota,rav4,195596,wagon,silver,id,47.656773,-117.218613
+52999,2016,ram,diesels cummins 3500,104895,truck,grey,id,47.65613,-117.236949
+13999,2015,ford,escape s fwd gas suv auto,72409,SUV,blue,id,47.65613,-117.236949
+26867,2019,jeep,cherokee,13255,SUV,blue,il,42.28203,-87.936735
+1995,2003,mitsubishi,lancer ls,114208,sedan,white,il,41.572305,-88.113993
+11995,2004,toyota,tacoma v6 4dr double cab v6,183435,pickup,silver,il,41.572305,-88.113993
+2995,2004,honda,civic ex,1,sedan,grey,il,41.572305,-88.113993
+4995,2004,ford,escape xlt,97985,SUV,red,il,41.572305,-88.113993
+3995,2005,jeep,liberty sport,154892,SUV,silver,il,41.572305,-88.113993
+8995,2005,jeep,grand cherokee limited 4dr limited,64057,SUV,silver,il,41.572305,-88.113993
+10995,2005,chevrolet,avalanche 1500 ls 4dr 1500 ls crew cab sb,75367,pickup,silver,il,41.572305,-88.113993
+6995,2005,chevrolet,astro cargo,107595,van,white,il,41.572305,-88.113993
+8995,2006,toyota,tacoma 4dr access cab,225505,pickup,red,il,41.572305,-88.113993
+5995,2006,toyota,avalon xls,100929,sedan,grey,il,41.572305,-88.113993
+8995,2006,toyota,4runner limited limited 4dr suv,217279,SUV,grey,il,41.572305,-88.113993
+2995,2006,mazda,mazda6 s sport,120174,wagon,grey,il,41.572305,-88.113993
+5995,2006,infiniti,m35 x,165375,sedan,white,il,41.572305,-88.113993
+14995,2006,ford,f-250 super duty xl xl 2dr regular cab,79579,pickup,white,il,41.572305,-88.113993
+14995,2006,ram,2500 slt,250880,pickup,black,il,41.572305,-88.113993
+3995,2006,dodge,charger rt,178178,sedan,grey,il,41.572305,-88.113993
+5995,2006,cadillac,dts luxury i,115789,sedan,red,il,41.572305,-88.113993
+5999,2004,cadillac,deville,64720,sedan,grey,il,41.928026,-87.958979
+3200,2007,ford,edge,1,SUV,,il,41.622595,-87.633814
+4200,2001,toyota,tacoma prerunner,188334,truck,brown,il,42.426316,-87.878402
+6995,2002,lexus,ls 430,128097,sedan,white,il,42.040729,-87.752954
+16999,2010,chevrolet,express cutaway 3500,167740,bus,blue,il,42.3542,-87.8651
+36990,2016,nissan,370z nismo tech coupe 2d,13286,coupe,white,il,42.01,-87.84
+35590,2018,gmc,sierra 1500 double cab sle,19458,pickup,black,in,41.07,-85.13
+23990,2020,volkswagen,jetta 1.4t sel,9763,sedan,black,in,41.07,-85.13
+24800,2016,chevrolet,silverado 1500,105900,,white,in,42.9468,-83.817
+35995,2012,ford,super duty f-350 drw,55321,truck,white,in,41.60201,-83.786937
+4900,2009,ford,focus ses,131630,sedan,red,in,41.229,-85.3244
+3981,2009,chevrolet,malibu lt,191650,sedan,white,in,41.237979,-85.82593
+4981,2011,dodge,avenger lux,149675,sedan,red,in,41.237979,-85.82593
+4981,2009,toyota,corolla,149242,sedan,silver,in,41.237979,-85.82593
+5000,1983,buick,lesabre,100000,,,in,41.0508,-85.256
+4000,2002,ford,explorer limited,244000,SUV,white,in,41.0052,-85.1527
+6981,2012,ford,edge sel,215116,SUV,black,in,41.237979,-85.82593
+4981,2010,ford,escape xlt,132337,SUV,white,in,41.237979,-85.82593
+21990,2017,infiniti,qx50 sport utility 4d,27629,hatchback,blue,in,41.07,-85.13
+9995,2013,chevrolet,equinox,115578,SUV,blue,in,41.1468,-85.2067
+3981,2013,ford,focus se,175888,sedan,grey,in,41.237979,-85.82593
+30990,2017,rover,range evoque se,18342,SUV,red,in,41.07,-85.13
+35590,2020,lincoln,corsair sport utility 4d,1454,other,,in,41.07,-85.13
+41590,2017,bmw,x6 xdrive35i sport utility,23253,SUV,black,in,41.07,-85.13
+32590,2013,lexus,ls 460 l sedan 4d,60271,sedan,,in,41.07,-85.13
+20590,2015,volkswagen,eos komfort,43470,convertible,black,in,41.07,-85.13
+21950,2018,ford,f-150,106945,pickup,white,ia,32.73603,-97.133644
+7999,2012,volkswagen,cc,102000,sedan,black,ia,42.484503,-92.324974
+6999,2010,volkswagen,gti,97000,coupe,red,ia,42.484503,-92.324974
+0,2020,chevrolet,silverado 2500hd lt,33826,pickup,white,ia,41.388255,-93.55652
+2395,1997,mercury,cougar xr7,149000,coupe,red,ia,42.0405,-92.9127
+4500,2009,audi,a4,149000,sedan,black,ia,42.484503,-92.324974
+5500,2006,audi,a4,106000,sedan,silver,ia,42.484503,-92.324974
+19995,2020,buick,encore,1542,SUV,blue,ia,41.614356,-93.600567
+14995,2014,chrysler,300,68803,sedan,red,ia,41.614356,-93.600567
+3995,1990,buick,reatta,97066,coupe,custom,ia,41.614356,-93.600567
+9850,2004,chevrolet,monte carlo,106749,coupe,black,ia,41.614356,-93.600567
+9850,2008,nissan,frontier,161347,truck,silver,ia,41.614356,-93.600567
+15995,2012,chevrolet,colorado,121407,truck,orange,ia,41.614356,-93.600567
+15995,2005,jeep,wrangler,130895,SUV,orange,ia,41.614356,-93.600567
+9850,2002,chevrolet,s10 pickup,51608,truck,red,ia,41.614356,-93.600567
+15995,2006,jeep,wrangler,90098,SUV,custom,ia,41.614356,-93.600567
+8888,1989,cadillac,allante,88450,convertible,red,ia,41.614356,-93.600567
+14995,2009,ram,1500,133042,truck,black,ia,41.614356,-93.600567
+9850,2010,ford,explorer,105114,SUV,grey,ia,41.614356,-93.600567
+7888,2002,dodge,dakota,123250,truck,white,ia,41.614356,-93.600567
+9850,2014,chevrolet,cruze,60965,sedan,blue,ia,41.614356,-93.600567
+7888,1998,chevrolet,camaro,130202,convertible,black,ia,41.614356,-93.600567
+10995,1997,mercedes-benz,sl-class,79351,convertible,blue,ia,41.614356,-93.600567
+15950,2013,ford,f-350 super duty,162415,pickup,white,ia,32.73603,-97.133644
+14988,2018,chevrolet,trax,51300,,,ks,35.199,-97.4841
+13500,2013,gmc,yukon denali,201926,SUV,white,ks,37.640354,-97.351877
+16000,2008,ford,f-350 sd,203045,truck,white,ks,37.640354,-97.351877
+22800,2010,ford,f-250 sd,148148,truck,black,ks,37.640354,-97.351877
+4800,2008,mercury,mariner,191441,SUV,grey,ks,37.640354,-97.351877
+62988,2019,chevrolet,silverado,1118,,,ks,35.199,-97.4841
+24950,2019,toyota,tacoma,36610,pickup,white,ks,32.73603,-97.133644
+21950,2018,ford,f-150,106945,pickup,white,ks,32.73603,-97.133644
+4000,1994,buick,roadmaster limited,150000,sedan,grey,ks,37.669,-97.2802
+54988,2018,gmc,yukon denali,48171,,,ks,35.199,-97.4841
+35988,2013,dodge,challenger srt8,40619,,,ks,35.199,-97.4841
+29588,2017,chevrolet,camaro,30683,,,ks,35.199,-97.4841
+15950,2013,ford,f-250 super duty,184003,pickup,white,ks,32.73603,-97.133644
+0,2018,kia,sorento,94423,SUV,white,ks,36.72137,-95.93518
+0,2020,infiniti,qx80,35505,SUV,,ks,36.74504,-95.93251
+18298,2015,audi,a3,45104,,white,ks,37.710584,-97.209255
+18198,2015,dodge,journey,51774,,silver,ks,37.710584,-97.209255
+10995,2012,volkswagen,tiguan,91577,,,ks,37.663987,-97.472158
+26588,2016,ford,f-250,135151,,,ks,35.199,-97.4841
+6995,2014,ford,focus titanium hatchback 4d,127814,hatchback,silver,ks,37.7719,-97.3175
+5995,2012,hyundai,elantra limited sedan 4d,131569,sedan,black,ks,37.7719,-97.3175
+7995,2013,chevrolet,impala lt,103412,sedan,black,ks,37.7719,-97.3175
+9999,2013,chevrolet,silverado 1500 lt,224954,truck,white,ks,37.7719,-97.3175
+6995,2016,nissan,versa note sv hatchback,82051,hatchback,white,ks,37.7719,-97.3175
+14995,2019,kia,forte fe,30633,sedan,silver,ks,37.7719,-97.3175
+12680,2016,toyota,prius,126000,hatchback,black,ks,37.6936,-97.2825
+5500,1973,chevrolet,nova,92000,hatchback,silver,ks,37.465888,-96.26492
+19000,2015,bmw,528i xdrive,68000,sedan,white,ks,38.136,-97.4495
+7000,1989,jeep,wrangler,178000,SUV,blue,ks,37.6985,-97.1179
+10995,2014,chevrolet,cruze lt,94146,sedan,silver,la,29.970842,-90.082653
+5000,2009,nissan,altima,152803,,,la,30.2916,-89.8129
+25995,2015,ford,f-150 xlt,117602,pickup,grey,la,29.970842,-90.082653
+12995,2012,lexus,is 250,114012,sedan,black,la,29.970842,-90.082653
+10995,2014,kia,soul base,68533,SUV,silver,la,29.970842,-90.082653
+10995,2016,kia,soul +,100503,SUV,blue,la,29.970842,-90.082653
+10995,2010,infiniti,g37 sport,101350,sedan,silver,la,29.970842,-90.082653
+12995,2013,hyundai,tucson limited,115580,SUV,,la,29.970842,-90.082653
+9990,2014,hyundai,elantra gt,90255,hatchback,grey,la,29.970842,-90.082653
+12995,2012,honda,pilot ex-l,133384,SUV,blue,la,29.970842,-90.082653
+13995,2013,honda,cr-v ex-l,102002,SUV,black,la,29.970842,-90.082653
+26500,2015,gmc,sierra 1500 sle,108094,pickup,silver,la,29.970842,-90.082653
+12500,2018,dodge,grand caravan se,90368,mini-van,,la,29.970842,-90.082653
+12995,2016,chevrolet,malibu limited ltz,83468,sedan,silver,la,29.970842,-90.082653
+11995,2010,bmw,x3 xdrive30i,91034,SUV,silver,la,29.970842,-90.082653
+30990,2017,dodge,charger,77040,sedan,,la,30.002045,-90.137921
+17995,2016,nissan,frontier sv crew cab,106996,pickup,white,la,29.993717,-90.181751
+0,2013,hyundai,elantra,107000,,,la,30.002784,-90.15501
+9995,2014,chevrolet,equinox lt,162288,SUV,red,la,29.993717,-90.181751
+10995,2016,ford,taurus se,133375,sedan,white,la,29.993717,-90.181751
+4995,2008,chevrolet,impala ls,164802,sedan,white,la,29.993717,-90.181751
+8995,2010,toyota,sienna xle,140825,mini-van,silver,la,29.993717,-90.181751
+23595,2015,gmc,sierra 2500 hd,164086,other,grey,la,29.993717,-90.181751
+6595,2006,ford,f250 super duty,220609,pickup,white,la,29.993717,-90.181751
+6295,2008,mercury,grand marquis ls,119691,sedan,white,la,29.993717,-90.181751
+24995,2017,jeep,grand cherokee overland rwd,65676,SUV,black,la,29.993717,-90.181751
+11995,2013,chevrolet,silverado 1500,146213,pickup,white,la,29.993717,-90.181751
+19995,2012,ford,f250 super duty,149062,pickup,silver,la,29.993717,-90.181751
+21595,2014,lexus,is 250 f sport,36203,sedan,grey,la,29.993717,-90.181751
+9995,2007,chevrolet,silverado 1500,167820,pickup,white,la,29.993717,-90.181751
+9990,2008,jeep,grand cherokee,106000,SUV,,la,29.72214,-95.52718
+14980,2017,mazda,mazda6,68719,other,red,la,30.002045,-90.137921
+25900,2015,dodge,grand caravan se wheelcha,34358,van,,la,33.681077,-112.05849
+0,2005,,cars-trucks-vans-suvs,1,truck,,la,30.337123,-89.999931
+9880,2013,nissan,altima,76924,sedan,red,la,30.002045,-90.137921
+4750,1998,nissan,frontier xe,227471,,,la,30.013718,-90.155289
+8950,2008,chevrolet,avalanche lt,240709,,,la,30.013792,-90.155311
+39950,2018,gmc,sierra 2500hd,109474,pickup,white,la,32.73603,-97.133644
+5950,2013,kia,forte ex,123459,,,la,30.013588,-90.155697
+30950,2018,chevrolet,2500hd,148000,pickup,white,la,32.73603,-97.133644
+4800,2014,chrysler,200,124000,sedan,grey,la,29.994588,-90.233459
+23950,2016,ford,e-series chassis,137886,van,white,la,32.73603,-97.133644
+26800,2017,toyota,tacoma 4x4,57228,,grey,la,29.9168,-89.996
+18990,2015,ford,mustang,98624,coupe,black,la,30.002045,-90.137921
+12795,2016,nissan,pathfinder,135003,,black,la,29.9871,-90.1695
+16495,2018,subaru,impreza,23266,other,blue,me,43.524562,-70.427884
+29495,2017,subaru,wrx,37271,other,,me,43.524562,-70.427884
+13990,2017,chevrolet,equinox ls awd,74000,,,me,42.921251,-70.8584
+28800,2015,chevrolet,silverado 1500,139676,truck,white,me,44.138399,-70.225926
+23800,1990,,BMY M923A2,6450,truck,green,me,47.1222,-68.323
+21000,1987,ford,mustang gt convertible,36000,convertible,black,me,47.1222,-68.323
+31900,2019,volkswagen,tiguan premium r-line,24838,SUV,white,me,44.205174,-69.791615
+15800,2013,ford,econoline wagon,100589,van,white,me,44.138399,-70.225926
+31250,2018,audi,q3 premium,18584,SUV,white,me,44.20525,-69.791293
+27995,2018,bmw,330xi,36583,sedan,black,me,44.205217,-69.791164
+109995,2004,,ROLLS ROYCE PHANTOM,26000,sedan,black,me,42.756205,-71.210258
+39000,2015,gmc,sierra 1500,81000,truck,white,me,44.333161,-69.759407
+12700,2020,honda,cr-v awd ex-l,12440,SUV,blue,me,44.3738,-68.2448
+6695,2013,chevrolet,captiva,118700,SUV,silver,me,44.796945,-68.761035
+5595,2013,ford,focus,107800,sedan,white,me,44.796945,-68.761035
+11295,2009,ram,1500,131400,truck,silver,me,44.796945,-68.761035
+13495,2011,gmc,sierra 1500,287000,truck,red,me,44.796945,-68.761035
+10495,2015,chrysler,200,103600,sedan,blue,me,44.796945,-68.761035
+7495,2011,kia,sorento,100100,SUV,silver,me,44.796945,-68.761035
+3995,2008,ford,f-150,180000,truck,black,me,44.796945,-68.761035
+6450,2009,subaru,legacy,113804,sedan,silver,me,43.036758,-71.414421
+5150,2007,subaru,forester,103489,SUV,blue,me,43.036758,-71.414421
+5850,2010,subaru,forester,127687,SUV,silver,me,43.036758,-71.414421
+5750,2013,nissan,rogue,142772,SUV,silver,me,43.036758,-71.414421
+2600,2007,chrysler,town and country,147000,mini-van,silver,md,39.3401,-76.4153
+46990,2019,ram,2500 crew cab lone star,35704,pickup,white,md,39.3,-76.61
+15990,2015,toyota,venza le wagon 4d,80708,wagon,white,md,39.3,-76.61
+28990,2018,chevrolet,colorado crew cab work,21523,pickup,,md,39.3,-76.61
+18990,2013,audi,a3 2.0 tdi premium plus,25007,wagon,black,md,39.3,-76.61
+36590,2019,infiniti,q60 3.0t luxe coupe 2d,18605,coupe,blue,md,39.3,-76.61
+20990,2013,chevrolet,silverado 1500 regular,29102,pickup,silver,md,39.3,-76.61
+21990,2016,mazda,mx-5 miata club,41251,convertible,white,md,39.3,-76.61
+38990,2019,volkswagen,atlas sel premium,28192,SUV,blue,md,39.3,-76.61
+35990,2018,volkswagen,atlas sel premium,22546,other,white,md,39.3,-76.61
+21590,2016,chevrolet,colorado crew cab lt,79614,pickup,red,md,39.3,-76.61
+29590,2017,jaguar,xf 20d premium sedan 4d,15530,sedan,black,md,39.3,-76.61
+23990,2017,ford,explorer,92034,SUV,black,ma,42.834977,-71.107791
+32990,2018,audi,a6 3.0t premium plus sedan,41131,sedan,white,ma,42.11,-72.53
+35990,2018,audi,a4 allroad premium plus,29157,wagon,black,ma,42.11,-72.53
+25590,2017,infiniti,q70 3.7 sedan 4d,66632,sedan,blue,ma,42.11,-72.53
+31590,2018,lincoln,mkx select sport utility,24000,other,black,ma,42.11,-72.53
+22590,2017,infiniti,qx50 sport utility 4d,20961,hatchback,,ma,42.11,-72.53
+23590,2018,mitsubishi,outlander phev gt,48933,other,white,ma,42.11,-72.53
+32990,2018,audi,a4 allroad premium plus,57769,wagon,silver,ma,42.11,-72.53
+30590,2017,audi,a6 3.0t premium plus sedan,24238,sedan,white,ma,42.11,-72.53
+21590,2019,chrysler,300 touring l sedan 4d,43747,sedan,black,ma,42.11,-72.53
+20990,2018,mitsubishi,outlander phev gt,36773,other,,ma,42.11,-72.53
+35590,2020,lincoln,corsair sport utility 4d,1454,other,,ma,42.11,-72.53
+21590,2018,chrysler,300 touring l sedan 4d,36023,sedan,silver,ma,42.11,-72.53
+13800,2015,audi,q7 premium plus,144000,SUV,grey,ma,42.1027,-72.6157
+10950,2017,nissan,sentra sv sedan 4d,46228,sedan,silver,ma,42.1251,-72.7495
+25900,2017,bmw,x4,123096,wagon,blue,ma,42.777828,-73.74899
+36900,2009,mercedes-benz,sl-class,29984,convertible,black,ma,42.777828,-73.74899
+10499,2010,toyota,camry,41000,,,ma,42.0853,-72.5584
+17999,2014,audi,a5 2.0t premium plus,32000,,,ma,42.0853,-72.5584
+99,2019,kia,soul,52527,hatchback,,ma,42.7846,-71.2176
+99,2018,kia,rio,45468,sedan,silver,ma,42.7846,-71.2176
+1000,2017,toyota,camry,91780,sedan,grey,ma,42.145814,-72.490575
+8999,2010,honda,cr-v lx,100225,SUV,blue,ma,42.6076,-72.4292
+5499,2009,honda,civic,115162,sedan,black,ma,42.6076,-72.4292
+6999,2007,,scion tc,69546,,red,ma,42.6076,-72.4292
+15499,2014,chevrolet,express 3500,83000,,green,ma,42.463359,-73.252082
+8999,2014,ford,focus se sedan,49531,,,ma,42.463359,-73.252082
+9999,2013,honda,accord sport,154019,,,ma,42.4531,-73.2471
+19799,2017,kia,sportage ex,37861,SUV,,ma,42.4531,-73.2471
+99,2018,kia,sorento,42236,,custom,ma,42.7846,-71.2176
+18800,2016,honda,crv ex-l,115350,SUV,,ma,42.4531,-73.2471
+28995,2018,ram,1500 4x4,22481,pickup,grey,ma,42.716629,-71.420303
+6950,2011,ford,fusion se,130000,sedan,grey,mi,42.234647,-85.786457
+6250,2011,chevrolet,malibu ls,179000,sedan,,mi,42.235156,-85.786457
+8775,2014,ford,focus se,59000,sedan,white,mi,42.234775,-85.786572
+3000,2007,honda,accord,200000,sedan,blue,mi,42.5015,-85.2495
+7999,2014,dodge,grand caravan,154191,mini-van,blue,mi,42.635111,-85.284441
+35990,2020,dodge,challenger r/t coupe 2d,1548,coupe,black,mi,42.29,-85.22
+6900,2010,ford,f150 xl,212000,truck,white,mi,42.334184,-85.155029
+27990,2017,chevrolet,colorado extended cab,22120,pickup,,mi,42.29,-85.22
+8995,2010,chevrolet,equinox,75441,,,mi,43.1824,-84.1122
+6900,2001,chevrolet,silverado,178000,truck,white,mi,42.522205,-85.261717
+32990,2016,jeep,wrangler rubicon sport,42344,other,silver,mi,42.29,-85.22
+5495,2012,chevrolet,cruze,128934,,,mi,43.1824,-84.1122
+16995,2012,ford,f-150,128584,,,mi,43.1824,-84.1122
+5495,2011,buick,regal,160331,,,mi,43.1824,-84.1122
+5995,2011,cadillac,srx,174980,,,mi,43.1824,-84.1122
+37990,2016,toyota,tundra double cab sr,22870,pickup,black,mi,42.29,-85.22
+19300,2017,ford,fusion se,13500,sedan,white,mi,42.266994,-84.99032
+17000,2007,jeep,wrangler x,80800,,silver,mi,42.298585,-85.211163
+22990,2012,toyota,tacoma access cab pickup,37725,pickup,white,mi,42.29,-85.22
+28590,2010,chevrolet,camaro ss coupe 2d,16903,coupe,yellow,mi,42.29,-85.22
+32990,2017,ram,1500 crew cab big horn,10193,pickup,,mi,42.29,-85.22
+30990,2019,mazda,mx-5 miata grand touring,4936,other,black,mi,42.29,-85.22
+9300,2012,chevrolet,malibu,59900,,,mi,42.298228,-85.199833
+7850,2010,toyota,camry le,152000,sedan,blue,mi,42.234605,-85.787144
+7997,2006,gmc,envoy denali,146000,SUV,white,mi,42.234605,-85.786572
+8775,2014,ford,focus se,59000,sedan,white,mi,42.234775,-85.786572
+7995,2012,chevrolet,cruze lt,109000,sedan,silver,mi,42.234436,-85.786972
+26590,2020,honda,civic si coupe 2d,9954,coupe,silver,mi,42.29,-85.22
+4995,2004,chevrolet,trailblazer,139915,,,mi,42.303,-85.1304
+24990,2018,bmw,3 series 330i xdrive sedan,28946,sedan,white,mn,44.16,-93.99
+39990,2018,ford,f150 supercrew cab xl,41886,pickup,blue,mn,44.16,-93.99
+46347,2021,ford,explorer,10,SUV,black,mn,43.651759,-94.452864
+4500,1999,ford,f-150,119849,truck,red,mn,44.77274,-93.50024
+26990,2020,toyota,tacoma access cab sr5,8625,pickup,red,mn,44.16,-93.99
+26990,2018,bmw,3 series 330i xdrive sedan,13088,sedan,,mn,44.16,-93.99
+11989,2016,nissan,rogue,129697,,black,mn,44.164936,-93.955269
+5800,2012,dodge,journey sxt,122000,,silver,mn,43.6537,-93.3707
+9500,2013,buick,lacrosse,90880,sedan,grey,mn,43.651759,-94.452864
+14590,2012,bmw,1 series 128i coupe 2d,80465,coupe,black,mn,44.16,-93.99
+33990,2020,infiniti,qx50 luxe sport utility,19042,hatchback,brown,mn,44.16,-93.99
+23590,2020,acura,ilx sedan 4d,2630,sedan,black,mn,44.16,-93.99
+19990,2020,mitsubishi,outlander sport es,11103,hatchback,orange,mn,44.16,-93.99
+51685,2021,ford,super duty f-250,10,truck,,mn,43.651759,-94.452864
+2450,2005,chevrolet,cavalier,173580,coupe,red,mn,44.77274,-93.50024
+23990,2015,cadillac,srx luxury collection,57304,SUV,,mn,44.16,-93.99
+24999,2014,ram,pickup 1500,84650,pickup,red,mn,44.204103,-93.807105
+10000,1961,ram,100,,pickup,,mn,44.204103,-93.807105
+17999,2016,buick,enclave,91200,SUV,white,mn,44.204103,-93.807105
+11750,2015,kia,optima,52500,sedan,white,mn,44.204103,-93.807105
+23250,2010,ford,f-150,98937,truck,orange,mn,44.77274,-93.50024
+17900,2016,chevrolet,equinox,60338,SUV,red,mn,43.651759,-94.452864
+7750,2010,honda,accord,116138,sedan,black,mn,44.77274,-93.50024
+15990,2018,volkswagen,jetta 1.4t s sedan 4d,42060,sedan,silver,mn,44.16,-93.99
+41990,2019,toyota,4runner limited sport,36630,SUV,white,mn,44.16,-93.99
+43990,2019,ram,1500 crew cab big horn,17352,pickup,black,mn,44.16,-93.99
+16500,2015,ford,edge,104676,SUV,,mn,43.651759,-94.452864
+10000,2002,chevrolet,silverado 2500hd,157364,truck,brown,mn,44.77274,-93.50024
+14595,2015,kia,optima,96352,sedan,white,ms,30.518142,-89.671095
+24500,2014,toyota,tacoma,25166,truck,black,ms,30.3826,-89.0976
+18000,2011,ford,f-150,130000,truck,white,ms,30.3752,-89.1244
+98750,2020,chevrolet,corvette,1300,coupe,black,ms,27.907158,-82.787506
+31988,2006,,INTERNATIONAL 4300 BUCKET TRUCK,179739,truck,white,ms,26.0218,-80.1891
+20000,2002,chevrolet,camaro,128000,coupe,blue,ms,29.8598,-90.1105
+6500,2007,toyota,camry,144000,,,ms,30.4035,-88.8971
+12500,2011,bmw,x3,108600,SUV,red,ms,30.381931,-89.380474
+14950,2016,toyota,sienna le,118000,van,custom,ms,30.6311,-88.1588
+11995,2017,hyundai,elantra,96385,sedan,black,ms,30.518142,-89.671095
+6995,2013,honda,odyssey,176795,,silver,ms,29.981,-90.2488
+3995,2006,toyota,camry solara,144785,,blue,ms,29.981,-90.2488
+15995,2008,toyota,tacoma,164366,,,ms,29.981,-90.2488
+5995,2003,ford,ranger,148165,,red,ms,29.981,-90.2488
+0,2014,ram,,0,other,white,ms,,
+13000,2019,toyota,yaris,21000,,white,ms,30.441985,-88.777599
+7000,1978,,mgb convertible,70000,convertible,white,ms,30.3989,-89.2843
+4000,2008,ford,f-150 lariat,187000,,white,ms,30.385125,-88.984541
+42000,2010,mercedes-benz,benz s65 amg,44000,sedan,black,ms,31.3098,-89.3775
+5500,2003,toyota,tacoma,279000,,,ms,31.545517,-89.797365
+3500,2006,ford,f150 4x4,200000,truck,brown,ms,31.4738,-89.0396
+4500,2006,chevrolet,impala,248000,sedan,white,ms,31.3472,-89.2222
+4800,2007,toyota,,201000,,,ms,31.3472,-89.2222
+0,2010,ford,f150,100000,truck,,ms,30.322,-89.9297
+4500,2009,chevrolet,impala ls,136000,sedan,red,ms,31.36,-89.5777
+3000,1991,gmc,truck sle sierra,146000,truck,,ms,31.77627,-89.688247
+600,2015,,Junk car,1234567,,,mo,36.669,-93.2481
+9495,2006,chevrolet,silverado 1500,209000,pickup,,mo,37.131,-93.0964
+1000,2006,cadillac,sts,215000,sedan,brown,mo,37.1668,-93.3085
+7995,2010,honda,accord,131343,sedan,silver,mo,37.2593,-93.2912
+13995,2015,nissan,altima,85137,sedan,silver,mo,37.2593,-93.2912
+10000,1970,ford,torino cobra,100000,other,red,mo,37.1654,-93.2522
+24995,2014,ram,1500 4x4,187000,truck,black,mo,37.1852,-93.2057
+9000,2014,mazda,cx-5,194000,SUV,black,mo,37.2962,-93.4259
+16495,2017,honda,accord,25477,sedan,blue,mo,37.2593,-93.2912
+10500,2015,chevrolet,cruze,93273,sedan,green,mo,37.2593,-93.2912
+7000,2008,gmc,acadia,199850,SUV,black,mo,37.322222,-92.951889
+9990,2009,nissan,xterra,130542,SUV,white,mo,37.120906,-93.19406
+14990,1999,ram,2500,198561,truck,white,mo,37.120804,-93.193846
+11990,2013,chrysler,town and country,132000,,custom,mo,39.7893,-94.8043
+25590,2018,nissan,frontier crew cab sv,42932,pickup,white,mo,39.76,-94.85
+39590,2019,chevrolet,silverado 1500 ld,23488,pickup,black,mo,39.76,-94.85
+0,2014,jeep,wrangler,93246,SUV,black,mo,39.75466,-94.80377
+15990,2007,chevrolet,avalanche 1500,109000,,custom,mo,39.7893,-94.8043
+29990,2016,chevrolet,colorado extended cab,17302,pickup,red,mo,39.76,-94.85
+27990,2014,toyota,tacoma access cab pickup,17805,pickup,red,mo,39.76,-94.85
+9995,2012,nissan,armada,176000,SUV,white,mo,40.044023,-94.526634
+0,2011,toyota,venza,97909,wagon,black,mo,39.75466,-94.80377
+7000,2007,chevrolet,,291362,truck,,mo,39.7551,-94.8173
+39590,2020,ford,mustang gt premium coupe 2d,1419,coupe,white,mo,39.76,-94.85
+9998,2010,subaru,outback,154817,wagon,,mt,47.696062,-116.781406
+49998,2017,chevrolet,silverado,40659,truck,,mt,47.7989,-116.7423
+46998,2019,ram,1500,40120,truck,,mt,47.7989,-116.7423
+9000,1986,pontiac,fiero,49000,,,mt,46.9776,-114.0619
+42998,2018,chevrolet,silverado,34478,truck,,mt,47.696062,-116.781406
+37998,2017,ram,1500,73858,truck,,mt,47.7989,-116.7423
+41998,2019,ram,1500,27331,truck,,mt,47.696062,-116.781406
+21995,2002,ford,lighting,65000,,,mt,46.8563,-114.0252
+42998,2016,ram,1500,44954,truck,,mt,47.7989,-116.7423
+28998,2019,volkswagen,tiguan,27506,SUV,,mt,47.696062,-116.781406
+44998,2018,chevrolet,silverado,69009,truck,,mt,47.7989,-116.7423
+41999,2018,,2018,34000,,,mt,48.1783,-111.9397
+37998,2016,cadillac,ct6 luxury,23230,sedan,,mt,47.696062,-116.781406
+12990,2016,kia,soul ev,13417,wagon,brown,mt,46.9776,-114.0619
+10290,2013,kia,optima,72651,sedan,custom,mt,46.9776,-114.0619
+9990,2012,toyota,prius v,173180,hatchback,grey,mt,46.9776,-114.0619
+5490,2007,pontiac,torrent,151259,SUV,black,mt,46.9776,-114.0619
+18990,2013,gmc,sierra 1500,124300,truck,grey,mt,46.9776,-114.0619
+5490,2001,hyundai,xg300,69600,sedan,silver,mt,46.9776,-114.0619
+22990,2014,jeep,wrangler,122774,SUV,red,mt,46.9776,-114.0619
+11790,2006,rover,,96844,wagon,black,mt,46.9776,-114.0619
+9990,2011,hyundai,veracruz,117846,SUV,blue,mt,46.9776,-114.0619
+12990,2013,jeep,grand cherokee,151185,SUV,silver,mt,46.9776,-114.0619
+6990,2005,chrysler,300,85300,sedan,black,mt,46.9776,-114.0619
+8490,2001,ford,f-150,170010,truck,custom,mt,46.9776,-114.0619
+6990,2004,volkswagen,gti,154708,hatchback,silver,mt,46.9776,-114.0619
+34906,2013,ford,f250 super duty platinum,206313,,,nc,36.2245,-79.8901
+49979,2018,ram,2500 tradesman,23493,,,nc,36.2245,-79.8901
+38963,2015,ford,f250 super duty xlt,141942,,,nc,36.2245,-79.8901
+29968,2014,gmc,sierra 1500 slt,97561,,,nc,36.2245,-79.8901
+40952,2015,gmc,sierra 2500 slt,167337,,,nc,36.2245,-79.8901
+57993,2019,ford,f250 super duty lariat,112446,,,nc,36.2245,-79.8901
+37897,2018,ford,f250 super duty xlt,84974,,,nc,36.2245,-79.8901
+17893,2004,ford,f350 super duty lariat,196730,,,nc,36.2245,-79.8901
+51902,2016,ford,f350 super duty lariat,99575,,,nc,36.2245,-79.8901
+46969,2012,gmc,sierra 3500 denali,69412,,,nc,36.2245,-79.8901
+47893,2017,ram,3500 slt,104974,,,nc,36.2245,-79.8901
+44952,2015,ram,3500 tradesman,153445,,,nc,36.2245,-79.8901
+36858,2015,gmc,sierra 1500 slt,88601,,,nc,36.2245,-79.8901
+51721,2017,chevrolet,silverado 2500 ltz,126867,,,nc,36.2245,-79.8901
+40926,2015,ram,2500 tradesman,83949,,,nc,36.2245,-79.8901
+47955,2015,chevrolet,silverado 3500 high ct,153387,,,nc,36.2245,-79.8901
+48937,2014,ram,2500 laramie,157541,,,nc,36.2245,-79.8901
+38886,2015,ram,3500 laramie,167092,,,nc,36.2245,-79.8901
+44867,2016,ford,f350 super duty lariat,133600,,,nc,36.2245,-79.8901
+41805,2014,ram,2500 slt,107440,,,nc,36.2245,-79.8901
+38991,2015,ram,2500 slt,102109,,,nc,36.2245,-79.8901
+41805,2014,ram,2500 slt,107440,,,nc,36.2245,-79.8901
+38991,2015,ram,2500 slt,102109,,,nc,36.2245,-79.8901
+48992,2014,ford,f450 super duty king ranch,167092,,,nc,36.2245,-79.8901
+26909,2011,jeep,wrangler unlimited sahara,97584,,,nc,36.2245,-79.8901
+39921,2016,ram,2500 slt,137326,,,nc,36.2245,-79.8901
+17895,2014,ram,promaster,215000,,,ne,40.828117,-96.694254
+21895,2013,lexus,gs 350 awd,94000,,,ne,40.828117,-96.694254
+19650,2015,toyota,rav4 xle awd,58993,SUV,silver,ne,41.438988,-97.347957
+26850,2016,ford,f150 super cab xlt,116497,pickup,grey,ne,41.43875,-97.350223
+34500,2007,,International 4300,97000,,,ne,39.843445,-104.947586
+16995,2015,ford,expedition,111610,,,ne,40.851,-96.711
+32950,2015,,Freightliner Cascadia Daycab,602000,,,ne,38.8918,-94.1615
+29900,2020,,CHEV. SILVERADO 1500  CREW  4X4,88000,SUV,white,ne,41.447333,-97.058414
+25895,2015,chevrolet,tahoe lt 4wd,154000,,,ne,40.828117,-96.694254
+35000,2015,,Mustang GT,1600,,,ne,40.7848,-96.6431
+15895,2011,chevrolet,silverado ext cab,138000,,,ne,40.828117,-96.694254
+12999,2013,nissan,xterra,23055,SUV,grey,ne,40.835948,-96.728619
+10999,2016,chevrolet,malibu,43672,sedan,,ne,40.835948,-96.728619
+34999,2020,ford,edge,2785,SUV,black,ne,41.438366,-97.316899
+28888,2018,lincoln,mkc,24383,SUV,,ne,41.438366,-97.316899
+31949,2017,bmw,430i,35119,sedan,white,ne,41.438366,-97.316899
+21500,2013,gmc,sierra,66450,pickup,white,ne,40.3914,-95.8382
+11950,2010,mercedes-benz,benz glk 350 4matic,67000,SUV,white,ne,40.851,-96.711
+7900,2008,mercedes-benz,,227000,SUV,silver,ne,40.7378,-96.8445
+25000,2009,ram,1500,55300,truck,red,ne,40.7568,-96.6523
+5500,2006,infiniti,g35x,167000,,silver,ne,40.7285,-96.6023
+6700,2008,honda,odyssey ex-l,169649,mini-van,silver,ne,40.7285,-96.606
+4900,2006,volkswagen,jetta tdi,141500,sedan,silver,ne,40.780671,-97.101974
+37590,2019,tesla,model 3 standard range,10751,sedan,silver,nv,36.17,-115.12
+23590,2017,nissan,maxima sv (2017.5) sedan,40463,sedan,black,nv,36.17,-115.12
+24990,2020,honda,insight ex sedan 4d,8921,sedan,blue,nv,36.17,-115.12
+16590,2017,toyota,yaris se hatchback sedan,15015,sedan,white,nv,36.17,-115.12
+24990,2018,infiniti,qx30 premium sport,20142,hatchback,,nv,36.17,-115.12
+20990,2015,infiniti,q40 sedan 4d,49012,sedan,,nv,36.17,-115.12
+26590,2016,bmw,5 series 535i sedan 4d,38979,sedan,blue,nv,36.17,-115.12
+27990,2017,infiniti,qx60 3.5 sport utility,26355,other,blue,nv,36.17,-115.12
+22990,2013,hyundai,genesis coupe 3.8 track,21116,coupe,black,nv,36.17,-115.12
+34590,2020,honda,cr-v hybrid ex-l sport,10700,other,black,nv,36.17,-115.12
+26990,2018,audi,a3 sportback e-tron premium,40989,wagon,blue,nv,36.17,-115.12
+34990,2017,dodge,durango r/t sport utility,27451,other,black,nv,36.17,-115.12
+26990,2020,nissan,murano s sport utility 4d,2921,other,,nv,36.17,-115.12
+16590,2009,infiniti,g g37 convertible 2d,81993,other,silver,nv,36.17,-115.12
+39990,2020,hyundai,palisade sel sport,20363,other,white,nv,36.17,-115.12
+37590,2013,audi,rs 5 coupe 2d,50122,coupe,,nv,36.17,-115.12
+36990,2020,toyota,tacoma double cab trd,5246,pickup,black,nv,36.17,-115.12
+17990,2019,kia,forte s sedan 4d,20854,sedan,silver,nv,36.17,-115.12
+18590,2015,hyundai,genesis 3.8 sedan 4d,100176,sedan,,nv,36.17,-115.12
+25590,2018,mitsubishi,outlander phev sel,25384,other,black,nv,36.17,-115.12
+33990,2020,lexus,nx 300 sport utility 4d,2403,hatchback,silver,nv,36.17,-115.12
+17590,2017,kia,optima plug-in hybrid ex,36079,sedan,black,nv,36.17,-115.12
+44995,2018,,Maserati Levante,20697,,,nj,40.2043,-74.1779
+22222,2014,dodge,gr caravan,23000,mini-van,blue,nj,40.67,-73.9367
+24995,2018,mercedes-benz,gla,21767,,,nj,40.2043,-74.1779
+13999,2005,gmc,sierra 1500 slt,144432,pickup,black,nj,39.9999,-74.2228
+85995,2020,cadillac,ct6-v,4325,,,nj,40.2043,-74.1779
+18500,2006,ram,1500 slt,124061,pickup,white,nj,39.9999,-74.2228
+13999,2013,nissan,frontier sv,144567,pickup,white,nj,39.9999,-74.2228
+26995,2017,toyota,tacoma,105615,,,nj,40.2043,-74.1779
+17995,2018,kia,sorento,28985,,,nj,40.2043,-74.1779
+31495,2018,lincoln,continental,20162,,,nj,40.2043,-74.1779
+16995,2018,ford,escape,35048,,,nj,40.2043,-74.1779
+33995,2018,audi,q5,3327,,,nj,40.2043,-74.1779
+21995,2018,subaru,forester,14451,,,nj,40.2043,-74.1779
+26900,2015,audi,a8l quattro,98000,sedan,white,nj,40.2458,-74.2768
+19995,2018,jeep,cherokee,31291,,,nj,40.2043,-74.1779
+21495,2019,jeep,cherokee,17806,,,nj,40.2043,-74.1779
+31995,2018,gmc,yukon xl,70750,,,nj,40.2043,-74.1779
+15495,2015,honda,cr-v,63739,,,nj,40.2043,-74.1779
+45995,2014,cadillac,cts-v sedan,29581,,,nj,40.2043,-74.1779
+20995,2017,mazda,cx-5,29693,,,nj,40.2043,-74.1779
+20995,2021,kia,seltos,7205,,,nj,40.2043,-74.1779
+4500,2007,ford,fusion se,116000,,,nm,34.969253,-106.630982
+3200,2003,subaru,legacy,175123,hatchback,grey,nm,35.0726,-106.5749
+4600,2006,ford,f-150,185123,truck,grey,nm,35.0726,-106.5749
+12900,2016,toyota,camry,26000,,,nm,35.104977,-106.628582
+17990,2014,volkswagen,jetta sportwagen 2.0l,31374,wagon,red,nm,35.11,-106.62
+30990,2015,gmc,sierra 1500 crew cab sle,61289,pickup,white,nm,35.11,-106.62
+25990,2018,gmc,canyon crew cab pickup 4d 5,45354,pickup,silver,nm,35.11,-106.62
+23990,2018,chevrolet,colorado extended cab,27607,pickup,white,nm,35.11,-106.62
+22990,2014,ford,f150 super cab stx pickup,59627,pickup,black,nm,35.11,-106.62
+20990,2015,volkswagen,eos komfort,70384,other,black,nm,35.11,-106.62
+29990,2009,chevrolet,corvette coupe 2d,52064,coupe,silver,nm,35.11,-106.62
+31422,2012,chevrolet,silverado 2500hd,144613,,,nm,35.004363,-106.049794
+43727,2016,gmc,sierra 1500,27139,,,nm,35.004363,-106.049794
+28590,2019,ram,1500 classic quad cab,21716,pickup,silver,nm,35.11,-106.62
+27590,2016,lincoln,mkx reserve sport,23615,other,silver,nm,35.11,-106.62
+16990,2014,subaru,xv crosstrek hybrid,98341,hatchback,green,nm,35.11,-106.62
+28990,2017,gmc,canyon extended cab sle,13340,pickup,,nm,35.11,-106.62
+28590,2013,gmc,yukon denali sport utility,69535,SUV,white,nm,35.11,-106.62
+23590,2020,chevrolet,equinox ls sport,3003,other,silver,nm,35.11,-106.62
+16990,2016,mazda,mazda3 i sport sedan 4d,25251,sedan,white,nm,35.11,-106.62
+20590,2017,fiat,124 spider classica,13523,other,,nm,35.11,-106.62
+19590,2015,honda,odyssey ex-l minivan 4d,64341,van,white,nm,35.11,-106.62
+8499,2006,nissan,murano,140860,SUV,,ny,42.897294,-78.697401
+7499,2009,saturn,vue,108640,SUV,black,ny,42.897294,-78.697401
+10800,2013,toyota,venza xle,55000,,,ny,42.5357,-79.1628
+15000,1949,dodge,,100000,pickup,white,ny,43.2106,-78.5745
+12500,2008,gmc,yukon slt,164890,,,ny,42.604636,-79.046959
+14999,2011,toyota,sienna le,77347,mini-van,silver,ny,42.989707,-78.873296
+6500,2012,chevrolet,silverado 1500,225000,,black,ny,42.8811,-78.8104
+21499,2013,ram,1500 4x4 crew cab,93086,pickup,grey,ny,42.989628,-78.873274
+15599,2014,subaru,forester 2.5i touring,93539,SUV,blue,ny,42.989675,-78.873296
+10499,2011,subaru,forester 2.5x,93529,SUV,red,ny,42.989691,-78.87321
+15499,2013,cadillac,srx luxury collection,80591,SUV,white,ny,42.989691,-78.873274
+8999,2011,hyundai,sonata limited,89469,sedan,white,ny,42.989722,-78.873274
+18499,2001,chevrolet,corvette,65719,coupe,silver,ny,42.989628,-78.873274
+10499,2013,ford,fusion se,73011,sedan,red,ny,42.989707,-78.873317
+7499,2011,chevrolet,cruze lt,80202,sedan,,ny,42.989738,-78.873188
+5500,2007,nissan,murano,150000,,silver,ny,42.9255,-78.7481
+4500,2005,chevrolet,equinox ls,130000,,grey,ny,42.9255,-78.7481
+2250,2000,chrysler,300m,164500,sedan,,ny,43.0028,-78.8547
+3900,2008,gmc,,92000,,,ny,42.836907,-78.782305
+5900,2007,buick,,120000,,,ny,43.060158,-77.635419
+27495,2015,dodge,grand caravan wheelchair,56344,van,white,ny,43.220454,-77.819038
+9900,1988,gmc,sierra 3500 sle,135674,,,ny,42.574276,-79.10233
+6500,2001,cadillac,eldorado esc,91433,,,ny,42.377506,-79.450325
+3500,2007,chevrolet,cobalt,35913,sedan,red,ny,43.1419,-78.8785
+7900,1994,,1994 Mustang GT Convertible,54345,convertible,red,ny,42.9719,-78.8769
+2000,2003,chevrolet,silverado,200000,pickup,,ny,43.0908,-78.9644
+4700,2013,hyundai,elantra gls 4dr sedan,176000,,,ny,43.094957,-76.162205
+4500,2000,lincoln,ls,57360,sedan,white,ny,42.8614,-78.8205
+26000,2015,jeep,wrangler sport,68406,other,white,nh,42.5274,-71.7563
+39990,2013,ford,f-350 super duty,34013,other,,nh,42.834977,-71.107791
+29000,2016,jeep,wrangler unlimited,84000,,grey,nh,42.926634,-72.287357
+4500,2013,ford,focus,112000,,,nh,43.2517,-71.9617
+11995,2009,toyota,tacoma,125000,pickup,black,nh,43.188723,-71.504929
+27995,2014,chevrolet,silverado 1500,113233,truck,,nh,42.962853,-71.064426
+69990,2020,chevrolet,silverado medium duty,2375,other,red,nh,42.834977,-71.107791
+17995,2015,subaru,outback awd limited,78248,,,nh,43.271723,-71.462803
+11900,2012,bmw,135i convertible,127000,convertible,black,nh,43.19315,-71.537476
+14995,2014,honda,accord sport,76174,sedan,,nh,43.271723,-71.462803
+5995,2012,nissan,versa special edition,85394,hatchback,,nh,43.271723,-71.462803
+14795,2017,chevrolet,cruze lt,39522,sedan,,nh,43.271723,-71.462803
+14995,2016,mini,cooper clubman s edition,99928,,,nh,43.271723,-71.462803
+8995,2017,chevrolet,sonic lt,87365,sedan,,nh,43.271723,-71.462803
+12995,2015,hyundai,sonata liited hybrid,76700,,,nh,43.271723,-71.462803
+6995,2015,chevrolet,spark hatchback,62214,hatchback,,nh,43.271723,-71.462803
+10995,2014,subaru,impreza awd premium wagon,89174,,,nh,43.271723,-71.462803
+7995,2015,ford,fiesta se,60717,sedan,,nh,43.271723,-71.462803
+12995,2015,honda,accord lx sedan,85782,sedan,,nh,43.271723,-71.462803
+15495,2016,subaru,impreza sport limited awd,75196,,,nh,43.271723,-71.462803
+8995,2017,mitsubishi,mirage g4 sedan,38632,sedan,,nh,43.271723,-71.462803
+13995,2018,subaru,impreza awd,74218,,,nh,43.271723,-71.462803
+13795,2019,nissan,sentra sv sedan,28055,sedan,,nh,43.271723,-71.462803
+6995,2017,mitsubishi,mirage hatchback,92858,hatchback,,nh,43.271723,-71.462803
+7900,2014,nissan,maxima,111310,,,oh,36.0725,-86.724
+3500,2005,mercedes-benz,,95000,convertible,black,oh,39.0217,-84.4989
+7500,2007,nissan,armada,151000,,,oh,39.1657,-84.233
+10295,2016,honda,fit,83553,hatchback,blue,oh,39.355403,-84.396202
+2595,2003,ford,f-150,149055,pickup,red,oh,39.2353,-84.4619
+493,2019,,Alpha Romeo Stelvio Sport,6800,SUV,green,oh,39.317,-84.2438
+29900,2015,ram,3500,194900,truck,white,oh,39.1573,-85.2938
+20900,2008,ram,3500,216000,truck,blue,oh,39.1573,-85.2938
+10000,1992,volkswagen,cabriolet,74615,convertible,white,oh,39.264,-84.3836
+44900,2015,,international 4300,163456,,yellow,oh,39.3402,-84.3998
+8400,2010,volkswagen,jetta sedan 4dr auto limited pzev,1,sedan,silver,oh,39.171991,-84.271999
+6170,2011,volkswagen,jetta,130834,sedan,white,oh,38.678459,-84.600891
+9700,2011,toyota,corolla 4dr sdn auto s (natl),126872,sedan,,oh,39.171991,-84.271999
+8995,2013,nissan,rogue awd 4dr s,146470,SUV,black,oh,39.171991,-84.271999
+6975,2016,chevrolet,cruze limited 4dr sdn auto lt w/1lt,88422,sedan,red,oh,39.171991,-84.271999
+7995,2010,mercury,mariner fwd 4dr premier,159787,SUV,silver,oh,39.171991,-84.271999
+8995,2010,dodge,nitro 4wd 4dr sxt *ltd avail*,145649,SUV,,oh,39.171991,-84.271999
+9995,2014,chevrolet,cruze 4dr sdn auto 1lt,80859,sedan,red,oh,39.171991,-84.271999
+65900,2021,,Isuzu NPR HD,556,,white,oh,39.3402,-84.3998
+7995,2007,buick,lacrosse 4dr sdn cxl,96838,sedan,,oh,39.171991,-84.271999
+10495,2012,chrysler,300 4dr sdn v6 limited rwd,150429,sedan,grey,oh,39.171991,-84.271999
+2900,1998,buick,park avenue 4dr sdn,1,sedan,white,oh,39.171991,-84.271999
+2450,2002,ford,"explorer 4dr 114"" wb xlt",1,SUV,,oh,39.171991,-84.271999
+5975,2011,nissan,rogue awd 4dr sv,170997,SUV,,oh,39.171991,-84.271999
+3550,2011,buick,regal 4dr sdn cxl rl1 (russelsheim) *ltd avail*,178988,sedan,custom,oh,39.171991,-84.271999
+4975,2012,ford,fusion 4dr sdn se fwd,132934,sedan,blue,oh,39.171991,-84.271999
+8995,2014,honda,accord,111822,sedan,,oh,39.355403,-84.396202
+22990,2013,lexus,is 250c convertible 2d,67266,convertible,black,oh,39.09,-84.51
+1950,1989,ford,f150,47938,pickup,white,oh,38.9595,-84.6255
+26995,2013,gmc,sierra,121000,,,oh,40.0987,-84.6342
+29990,2017,jaguar,xf 20d premium sedan 4d,13916,sedan,,oh,39.09,-84.51
+4500,2013,dodge,avenger,174634,sedan,black,ok,35.434843,-97.551171
+6995,2007,dodge,nitro,161011,SUV,silver,ok,35.434843,-97.551171
+5199,2013,chevrolet,impala,182232,sedan,grey,ok,35.434843,-97.551171
+17900,2017,ford,focus,44974,hatchback,grey,ok,35.435501,-97.518547
+38990,2017,jeep,wrangler unlimited rubicon,20676,other,red,ok,35.46,-97.51
+22990,2013,ford,f150 supercrew cab xlt,71288,pickup,,ok,35.46,-97.51
+34590,2015,chevrolet,silverado 1500 crew,36240,pickup,blue,ok,35.46,-97.51
+30990,2018,audi,a4 premium plus sedan 4d,9769,sedan,blue,ok,35.46,-97.51
+36996,2015,ram,3500,177126,,,ok,30.649402,-97.867069
+10499,2017,chevrolet,cruze,42000,sedan,silver,ok,35.44446,-97.548016
+10299,2016,nissan,altima 2.5 4dr sedan,81222,sedan,grey,ok,35.44446,-97.548016
+9950,2016,toyota,corolla,91555,sedan,black,ok,35.4445,-97.5619
+4950,2005,nissan,altima se-r,166555,sedan,red,ok,35.4445,-97.5619
+59995,2017,ram,2500,86303,pickup,black,ok,32.962772,-96.83799
+0,2019,ford,f-250sd,13570,truck,white,ok,34.19709,-97.16056
+6000,1965,chevrolet,impala,42000,coupe,,ok,35.4449,-97.446
+37590,2011,chevrolet,corvette grand sport,42017,coupe,red,ok,35.46,-97.51
+44988,2017,ram,2500 laramie,163339,truck,silver,ok,35.199,-97.4841
+39590,2020,ford,mustang gt coupe 2d,728,coupe,blue,ok,35.46,-97.51
+16750,2016,chrysler,300,101186,sedan,red,ok,35.435501,-97.518547
+2500,2018,jeep,compass,40500,,,ok,35.372762,-97.503614
+3495,1995,lincoln,,151000,sedan,red,ok,35.5184,-97.5746
+3695,1995,ford,f-150 xlt,2,,,ok,35.364055,-97.503766
+47999,2016,ford,f350,111536,,,ok,30.649254,-97.865696
+14998,2016,kia,forte koup,12904,,,ok,37.710584,-97.209255
+31995,2019,ford,ranger,23474,truck,silver,or,45.876983,-119.293925
+35990,2016,ram,1500,54420,truck,silver,or,45.876983,-119.293925
+48984,2020,jeep,wrangler,9833,SUV,,or,45.334794,-122.762079
+46638,2018,jeep,wrangler jk,21868,SUV,,or,45.334794,-122.762079
+2990,1999,buick,century,82006,sedan,white,or,44.083056,-123.153025
+71938,2017,ram,3500,29210,truck,,or,45.334794,-122.762079
+8500,1959,volvo,pv 544 sport,75247,,,or,44.0915,-121.4073
+631,2019,audi,q7,25107,SUV,,or,44.114947,-121.292667
+44995,2016,ram,2500,110990,pickup,silver,or,44.083056,-123.153025
+28990,2007,chevrolet,silverado,96238,pickup,silver,or,45.382346,-122.605132
+28990,2003,toyota,land cruiser,165800,wagon,white,or,45.382346,-122.605132
+18990,1999,ford,f-250,97835,pickup,white,or,45.382346,-122.605132
+28990,2016,audi,sq5,78294,SUV,white,or,45.382346,-122.605132
+11995,2013,lexus,ct,133119,hatchback,,or,45.382346,-122.605132
+16990,2012,audi,q5,82325,SUV,,or,45.382346,-122.605132
+0,2018,ford,f-350,47400,truck,,or,45.407237,-122.625196
+24990,2013,toyota,sienna,75268,wagon,red,or,45.382346,-122.605132
+37990,2016,ford,f-150,46192,pickup,,or,45.382346,-122.605132
+55995,2019,ford,super duty f-350 drw,63310,truck,silver,or,45.509778,-122.967379
+44990,2014,ram,2500,91889,pickup,brown,or,45.382346,-122.605132
+26990,2002,toyota,land cruiser,187404,wagon,,or,45.382346,-122.605132
+18990,2015,toyota,sienna,146024,wagon,white,or,45.382346,-122.605132
+29990,2000,ford,f-350,135200,pickup,,or,45.382346,-122.605132
+46990,2017,cadillac,escalade,72362,SUV,white,or,45.382346,-122.605132
+28990,2012,mitsubishi,lancer,84001,sedan,white,or,45.382346,-122.605132
+5995,2007,toyota,sienna le awd,188239,mini-van,blue,pa,40.626526,-75.426486
+7995,2010,toyota,highlander base 4wd,183000,SUV,silver,pa,40.626526,-75.426486
+5500,2008,lincoln,mkx,173864,SUV,white,pa,40.6328,-75.8513
+2450,2007,nissan,murano,204000,,,pa,40.589,-75.465
+9295,2011,volvo,xc90,127683,SUV,black,pa,40.894535,-74.152367
+15995,2009,ford,f-250,76627,pickup,white,pa,40.894535,-74.152367
+64995,2019,ram,3500 tradesman hd 4x4 dually,72560,other,black,pa,40.894535,-74.152367
+2800,2008,mazda,3 mazda3 manual,252759,sedan,black,pa,40.6068,-75.4781
+4300,2005,toyota,camry le 4dr sedan,154540,sedan,green,pa,40.6068,-75.4781
+16495,2012,chevrolet,silverado,152381,pickup,black,pa,40.894535,-74.152367
+4100,2006,saturn,ion,58000,sedan,green,pa,40.6068,-75.4781
+6400,2008,volvo,c70 t5 2dr convertible,127240,convertible,,pa,40.617325,-75.441437
+3200,2008,chrysler,town & country,200187,,,pa,40.6516,-75.224
+39950,2007,ford,f650 xlt,97312,,,pa,40.5076,-75.3888
+4900,2006,dodge,caravan sxtmini van,106270,van,,pa,40.617325,-75.441437
+6600,2011,kia,soul +crossover 5m,130149,wagon,,pa,40.617325,-75.441437
+4650,2006,toyota,avalon,173250,sedan,,pa,40.6937,-75.111
+7900,2014,nissan,versa note svhatchback,84675,hatchback,,pa,40.617325,-75.441437
+6500,2010,toyota,corolla le,95000,other,grey,pa,40.6517,-75.223
+4900,2007,kia,spectra exsedan (2l i4 4a,120551,sedan,,pa,40.617325,-75.441437
+11750,2012,chevrolet,camaro,100000,,,pa,40.0177,-75.2594
+3400,2008,chrysler,pt cruiser basewagon,171120,van,,pa,40.617325,-75.441437
+3600,2005,chrysler,pt cruiser basewagon,107773,van,,pa,40.617325,-75.441437
+7495,2006,subaru,forester,75672,SUV,white,pa,40.857,-73.3146
+29995,2015,ram,2500 crew cab,157824,pickup,white,pa,40.857,-73.3146
+6495,2012,volkswagen,cc 2.0t sport sedan,114000,sedan,black,pa,40.641182,-75.602074
+25900,2017,toyota,tacoma,93642,truck,white,ri,41.7766,-71.4383
+15995,2014,jeep,cherokee,121144,SUV,custom,ri,41.6161,-72.1425
+25995,2014,chevrolet,silverado 2500 hd crew cab,119039,pickup,white,ri,41.6161,-72.1425
+10000,2015,toyota,camry,140000,sedan,white,ri,41.7741,-71.4326
+8499,2006,chevrolet,silverado,127000,,,ri,41.9429,-71.286362
+9500,2014,kia,sorento lx awd,121840,SUV,white,ri,41.7766,-71.4383
+6550,2016,kia,soul,129242,wagon,green,ri,41.7766,-71.4383
+14999,2006,ford,f350,106000,,,ri,41.9429,-71.286362
+5995,2005,mercury,mountaineer premier,155,,,ri,42.886478,-71.149249
+5995,2013,chevrolet,cruze,141,,,ri,42.886478,-71.149249
+1600,2005,mercedes-benz,benz e320,200000,,,ri,41.754241,-71.480858
+8950,2011,honda,accord special edition,121900,,black,ri,41.8541,-71.4378
+5995,2005,nissan,xterra,180,,,ri,42.886478,-71.149249
+43590,2020,jeep,wrangler unlimited sport,9454,SUV,,ri,41.82,-71.41
+47590,2019,,Genesis G90 5.0 Ultimate Sedan,36664,sedan,,ri,41.82,-71.41
+21500,2013,lexus,gs 350 f sport,100000,,grey,ri,41.5944,-71.252
+31590,2017,jeep,wrangler unlimited sport,35391,SUV,black,ri,41.82,-71.41
+39990,2019,gmc,sierra 1500 double cab,7256,pickup,black,ri,41.82,-71.41
+5995,2006,chevrolet,hhr lt,109,,,ri,42.886478,-71.149249
+6450,2013,hyundai,elantra,121001,sedan,grey,ri,41.7766,-71.4383
+19500,1966,chevrolet,,100,,,ri,41.5371,-72.0849
+23995,2013,ford,f-150,64508,pickup,grey,ri,41.666672,-70.300985
+28995,2014,ford,f-150,22929,pickup,black,ri,41.666672,-70.300985
+31590,2017,jeep,wrangler unlimited sport,19141,SUV,black,ri,41.82,-71.41
+28590,2018,audi,q5 premium sport utility 4d,31033,SUV,silver,ri,41.82,-71.41
+3000,2002,,PT Cruiser,149590,coupe,red,ri,41.6211,-71.089
+64900,2011,,kenworth t270,244889,truck,green,ri,41.66203,-71.571768
+12700,2020,honda,cr-v awd ex-l,12440,SUV,blue,ri,41.1715,-71.5748
+29990,2018,audi,q5 premium sport utility 4d,22574,SUV,silver,ri,41.82,-71.41
+29990,2018,audi,q5 premium sport utility 4d,23316,SUV,silver,ri,41.82,-71.41
+9950,1976,cadillac,eldorado convertible,54000,convertible,red,ri,41.614945,-71.466923
+26988,2007,gmc,sierra 2500 slt,1,,,sc,36.1165,-80.0831
+15590,2016,,Scion iM Hatchback 4D,64923,hatchback,blue,sc,32.78,-79.99
+26990,2014,dodge,durango r/t sport utility,69612,SUV,silver,sc,32.78,-79.99
+24000,1976,,triumph tr6,61817,convertible,blue,sc,32.815829,-80.148954
+22990,2017,jaguar,xe 25t premium sedan 4d,43317,sedan,white,sc,32.78,-79.99
+7450,2008,bmw,335xi,177700,sedan,,sc,34.0853,-80.9167
+30590,2017,dodge,durango gt sport utility,52924,SUV,black,sc,32.78,-79.99
+35590,2019,dodge,durango gt sport utility,27503,other,red,sc,32.78,-79.99
+21990,2018,hyundai,sonata limited sedan 4d,14945,sedan,white,sc,32.78,-79.99
+6800,2006,chevrolet,impala lt,73000,,,sc,32.938788,-80.064871
+36500,2017,porsche,cayenne,74550,,silver,sc,32.853,-79.9913
+25590,2018,jaguar,xe 25t premium sedan 4d,30896,sedan,,sc,32.78,-79.99
+24990,2017,jaguar,xe 20d sedan 4d,21200,sedan,black,sc,32.78,-79.99
+16990,2018,hyundai,sonata se sedan 4d,31871,sedan,red,sc,32.78,-79.99
+1000,2010,ford,explorer,0,,,sc,32.853069,-79.971987
+10990,2005,chevrolet,ex-cab z-71 4x4,149007,truck,silver,sc,32.8215,-80.0568
+17990,2018,hyundai,sonata se sedan 4d,25065,sedan,silver,sc,32.78,-79.99
+7000,2001,gmc,sierra,142867,,,sc,32.9756,-80.1831
+5995,2006,jeep,grand cherokee limited 4x4,191042,SUV,red,sc,32.8215,-80.0568
+5850,2009,subaru,forester x limited,181800,hatchback,green,sc,32.993,-80.1257
+4885,2002,,oldsmobile bravada,97888,SUV,silver,sc,32.993,-80.1257
+19500,2013,,2013 Isuzu NPR,122857,van,white,sc,32.9833,-79.655
+14590,2016,,Scion iM Hatchback 4D,65203,hatchback,red,sc,32.78,-79.99
+17900,1952,ford,1952,1111,truck,red,sc,33.028,-80.174
+11950,1988,jeep,grand wagoneer,120000,SUV,blue,sc,32.834202,-80.046774
+2350,2006,chrysler,,200,,,sc,33.809782,-81.043396
+5000,2006,mercedes-benz,,169000,sedan,blue,sc,32.8175,-80.0107
+3400,2005,,LA,175000,,,sc,33.1971,-80.0233
+43988,2017,ford,f-250 stx,1,,,sc,36.1165,-80.0831
+16500,2008,chevrolet,tahoe,90000,SUV,,sc,35.8713,-80.0913
+3000,1999,ford,ranger xlt 4x4,115000,truck,black,sd,43.524,-96.7341
+5950,2014,volkswagen,beetle,210000,hatchback,black,sd,42.537373,-96.744147
+7999,2006,ford,f150,206000,truck,black,sd,43.4711,-96.8177
+5999,2009,chevrolet,impala,138000,,white,sd,43.4711,-96.8177
+24000,2013,gmc,sierra 2500hd,137951,pickup,,sd,44.299583,-96.799446
+11500,2015,chevrolet,malibu,106922,sedan,,sd,44.299583,-96.799446
+15000,2015,toyota,rav4 awd,110000,SUV,blue,sd,44.5394,-95.1169
+24995,2018,toyota,tundra 4wd,27611,pickup,grey,sd,46.136393,-100.169313
+5250,2014,ford,focus,103484,sedan,grey,sd,46.136393,-100.169313
+15750,2014,ford,f-150,71274,pickup,black,sd,46.136393,-100.169313
+6995,2015,ford,focus,47467,sedan,black,sd,46.136393,-100.169313
+40750,2019,ford,super duty f-250 srw,31175,pickup,blue,sd,46.136393,-100.169313
+13750,2015,chevrolet,silverado 1500,191183,,black,sd,46.136393,-100.169313
+11750,2014,buick,enclave,97922,SUV,,sd,46.136393,-100.169313
+14250,2013,,Jayco Jay Flight,1,,white,sd,46.136393,-100.169313
+19995,2015,ford,expedition el,135348,SUV,white,sd,46.136393,-100.169313
+14995,2018,toyota,camry,35771,sedan,,sd,46.136393,-100.169313
+22750,2018,ford,explorer,31088,SUV,,sd,46.136393,-100.169313
+4999,2014,nissan,versa note sv,188000,,grey,sd,43.702242,-98.029869
+3999,2010,ford,fusion sel,216000,,white,sd,43.702226,-98.029826
+12500,1982,chevrolet,camaro z28,64100,,silver,sd,43.704538,-98.018524
+4999,2007,toyota,sienna xle limited,168200,,,sd,43.546449,-96.692884
+15500,2014,chrysler,300-series,47095,sedan,silver,sd,43.54342,-96.755714
+39950,2015,porsche,macan turbo awd crossove,53321,,,sd,44.8346,-91.5159
+19950,2012,rover,hse 4x4 s,74943,,,sd,44.8346,-91.5159
+17350,2011,ram,1500 crew cab,152446,pickup,black,sd,43.5566,-96.8028
+12750,2014,ford,taurus,83529,sedan,silver,sd,43.5566,-96.8028
+5995,2012,chrysler,200,92526,sedan,white,sd,43.5566,-96.8028
+0,2016,ram,2500 crew cab,270115,pickup,white,sd,43.5566,-96.8028
+13995,2016,ram,promaster city,89271,other,white,sd,43.5566,-96.8028
+8100,2013,volkswagen,jetta sportwagen tdi,96888,hatchback,,tn,34.933154,-80.277901
+7995,2016,nissan,sentra,95595,sedan,grey,tn,34.7635,-84.9875
+29900,2017,ford,expedition platinum 4x4 gas,72849,SUV,white,tn,34.932873,-80.279102
+25990,2015,chevrolet,silverado 1500 work truck,122665,pickup,grey,tn,35.9244,-84.0015
+24990,2015,ram,2500 tradesman,140937,pickup,white,tn,35.9244,-84.0015
+14700,2015,honda,cr-v ex-l,70672,SUV,brown,tn,34.932639,-80.278301
+7800,2012,honda,accord,106000,sedan,silver,tn,35.2023,-84.8476
+45300,2018,ram,3500 big horn,34125,truck,black,tn,34.932591,-80.278416
+7000,2014,ford,f-250 super duty,288000,truck,white,tn,35.143595,-85.175477
+26990,2016,ford,f150 regular cab xl pickup,14230,pickup,black,tn,35.06,-85.25
+22990,2018,subaru,impreza 2.0i sport wagon,7762,wagon,,tn,35.06,-85.25
+36990,2015,chevrolet,tahoe lt sport utility,51677,other,black,tn,35.06,-85.25
+39990,2019,nissan,370z nismo coupe 2d,8373,coupe,white,tn,35.06,-85.25
+29990,2019,volkswagen,atlas s 4motion sport,11490,other,,tn,35.06,-85.25
+29990,2018,volvo,s90 t5 momentum sedan 4d,13859,sedan,,tn,35.06,-85.25
+21590,2017,buick,regal premium ii sedan 4d,14934,sedan,white,tn,35.06,-85.25
+15990,2015,toyota,camry le sedan 4d,56696,sedan,black,tn,35.06,-85.25
+21850,2015,cadillac,srx,77388,,silver,tn,35.060995,-85.192238
+1000,2004,acura,,162000,,,tn,35.1679,-85.0945
+3995,2007,jeep,grand cherokee laredo,205000,,,tn,34.927629,-85.210412
+12995,2014,ford,transit connect xl cargo,97377,van,white,tn,35.064059,-85.143099
+9995,2011,chrysler,town & country touring,109477,mini-van,silver,tn,35.064024,-85.14312
+21900,2008,jeep,wrangler unlimited,115000,,silver,tn,35.0401,-85.2956
+12777,2010,infiniti,g37s,141000,coupe,grey,tn,35.121441,-85.405897
+9995,2016,jeep,compass,120002,other,grey,tn,34.957107,-85.219423
+12900,2016,kia,soul,53099,other,blue,tn,34.957107,-85.219423
+24750,2015,ford,f150,152689,other,white,tn,34.957107,-85.219423
+10500,2011,acura,rdx,170904,other,grey,tn,34.957107,-85.219423
+26000,2017,honda,ridgeline,102583,other,black,tn,34.957107,-85.219423
+10900,2017,kia,soul,91179,other,green,tn,34.957107,-85.219423
+22990,2013,ford,f150 supercrew cab xlt,71288,pickup,,tx,30.26,-97.74
+24590,2019,nissan,frontier king cab s,13225,pickup,white,tx,30.26,-97.74
+15990,2014,mazda,mazda3 i touring hatchback,28647,hatchback,,tx,30.26,-97.74
+38990,2019,toyota,4runner limited sport,11877,other,white,tx,30.26,-97.74
+35990,2019,audi,q3 s line premium plus,10267,other,,tx,30.26,-97.74
+37590,2011,chevrolet,corvette grand sport,42017,coupe,red,tx,30.26,-97.74
+39590,2020,ford,mustang gt coupe 2d,728,coupe,blue,tx,30.26,-97.74
+29990,2019,mazda,mx-5 miata rf grand,13803,other,,tx,30.26,-97.74
+33990,2012,mercedes-benz,e-class e 63 amg,88107,sedan,white,tx,30.26,-97.74
+26990,2016,ford,f150 regular cab xl pickup,14230,pickup,black,tx,30.26,-97.74
+18990,2017,hyundai,tucson eco sport utility,26033,SUV,brown,tx,30.26,-97.74
+25590,2012,gmc,yukon denali sport utility,63659,other,white,tx,30.26,-97.74
+17590,2013,mini,hardtop cooper s hatchback,20181,hatchback,red,tx,30.26,-97.74
+34990,2020,jeep,wrangler sport s utility 2d,131,other,black,tx,30.26,-97.74
+32990,2019,toyota,tundra double cab sr,27253,pickup,red,tx,30.26,-97.74
+15990,2014,volkswagen,jetta sportwagen 2.0l,45230,wagon,,tx,30.26,-97.74
+15590,2015,hyundai,sonata sport 2.0t sedan,32182,sedan,,tx,30.26,-97.74
+16990,2011,gmc,sierra 1500 regular cab work,39219,pickup,black,tx,30.26,-97.74
+24990,2012,chevrolet,silverado 1500 regular,26460,pickup,red,tx,30.26,-97.74
+29590,2018,gmc,acadia sle-2 sport utility,21807,other,,tx,30.26,-97.74
+29990,2018,toyota,rav4 hybrid limited sport,14520,other,red,tx,30.26,-97.74
+39590,2020,kia,telluride s sport utility 4d,16014,SUV,,tx,30.26,-97.74
+30990,2016,gmc,sierra 1500 double cab sle,27754,pickup,white,tx,30.26,-97.74
+26990,2018,acura,rdx technology and,30386,other,silver,tx,30.26,-97.74
+38990,2015,toyota,sequoia platinum sport,51687,other,black,tx,30.26,-97.74
+34590,2015,chevrolet,silverado 1500 crew,36240,pickup,blue,tx,30.26,-97.74
+29590,2015,toyota,tacoma access cab trd pro,38302,pickup,white,tx,30.26,-97.74
+15590,2017,chevrolet,cruze lt hatchback 4d,40306,hatchback,black,tx,30.26,-97.74
+29990,2018,toyota,sienna le minivan 4d,12124,van,red,tx,30.26,-97.74
+31990,2018,ram,1500 quad cab harvest pickup,27426,pickup,white,tx,30.26,-97.74
+39990,2020,toyota,avalon touring sedan 4d,5845,sedan,blue,tx,30.26,-97.74
+27590,2020,honda,accord ex sedan 4d,4121,sedan,silver,tx,30.26,-97.74
+20590,2013,infiniti,g g37 sport coupe 2d,57181,coupe,black,tx,30.26,-97.74
+21990,2019,jeep,renegade sport suv 4d,3916,SUV,white,tx,30.26,-97.74
+28990,2019,nissan,frontier crew cab sv,1395,pickup,,tx,30.26,-97.74
+30590,2020,acura,tlx 2.4 w/technology pkg,1693,sedan,white,tx,30.26,-97.74
+36590,2018,audi,s3 premium plus sedan 4d,19322,sedan,blue,tx,30.26,-97.74
+32590,2018,chevrolet,silverado 1500 double,41150,pickup,brown,tx,30.26,-97.74
+31590,2019,toyota,86 trd special edition,2207,coupe,black,tx,30.26,-97.74
+29990,2019,ford,ranger supercrew xl pickup,10301,pickup,black,tx,30.26,-97.74
+33990,2020,nissan,370z coupe 2d,13306,coupe,silver,tx,30.26,-97.74
+34990,2018,jeep,wrangler unlimited sport,26285,other,,tx,30.26,-97.74
+27519,2019,ford,edge,36892,SUV,grey,tx,30.402667,-97.761037
+36800,2019,subaru,ascent,14287,,,tx,30.582572,-97.692412
+4200,2008,,hundai sonata,181650,,red,tx,30.5145,-97.668
+30500,2021,subaru,crosstrek,3883,,,tx,30.582572,-97.692412
+5590,2006,toyota,corolla ce,158862,sedan,black,tx,30.5145,-97.668
+25500,2014,ford,f150 supercrew,71754,pickup,black,tx,30.249,-97.8414
+12000,2004,audi,tt,83000,,,tx,30.5052,-97.8203
+27800,2018,mercedes-benz,cclass,28017,,,tx,30.582572,-97.692412
+4800,2011,chevrolet,traverse lt,265000,,,tx,30.4263,-97.6755
+1700,2007,pontiac,g5 gt,111000,,,tx,29.7972,-95.3288
+19950,2020,infiniti,qx60,47,SUV,white,tx,25.827103,-80.24152
+14950,2017,chevrolet,camaro,33847,coupe,silver,tx,25.827103,-80.24152
+49500,2018,jeep,grand cherokee,42091,SUV,white,tx,25.827103,-80.24152
+10000,2011,mercedes-benz,benz c300,90000,sedan,silver,tx,30.5052,-97.8203
+4500,2000,mazda,protege,298000,sedan,white,tx,30.3705,-97.9427
+27300,2019,chevrolet,traverse,52159,,,tx,30.582572,-97.692412
+58990,2017,ford,e450 bus,15800,,,tx,33.9631,-118.3941
+74997,2018,toyota,"land cruiser 1-owner*full custom build*never off road*new lift*new 33"" yokohama x-ats*new 18"" black rhino wheels*center council cooler*360 camera*chrome delete",57269,SUV,white,tx,45.5472,-122.5001
+28500,2016,infiniti,qx80,49148,,,tx,30.3423,-97.6673
+26300,2018,subaru,forester,29021,,,tx,30.582572,-97.692412
+12499,2018,ford,focus,60407,sedan,white,tx,29.3875,-98.5245
+12899,2013,honda,cr-v,97850,SUV,black,tx,29.3875,-98.5245
+12499,2013,ford,edge,94400,SUV,black,tx,29.3875,-98.5245
+11999,2013,mazda,cx-9,153874,SUV,black,tx,29.3875,-98.5245
+12499,2013,acura,rdx,140988,SUV,silver,tx,29.3875,-98.5245
+10799,2015,toyota,corolla,98143,sedan,blue,tx,29.3875,-98.5245
+9899,2013,volkswagen,tiguan,78664,SUV,blue,tx,29.3875,-98.5245
+10899,2011,mercedes-benz,c-class,103218,sedan,black,tx,29.3875,-98.5245
+14299,2015,honda,civic,60840,sedan,silver,tx,29.3875,-98.5245
+12899,2014,bmw,3 series,109948,sedan,black,tx,29.3875,-98.5245
+10299,2014,ford,fusion,126036,sedan,,tx,29.3875,-98.5245
+13499,2016,volkswagen,tiguan,56444,SUV,black,tx,29.3875,-98.5245
+7499,2016,ford,fiesta,96421,sedan,,tx,29.3875,-98.5245
+12399,2014,honda,cr-v,117774,SUV,,tx,29.3875,-98.5245
+12499,2013,hyundai,santa fe sport,97092,SUV,white,tx,29.3875,-98.5245
+12999,2014,bmw,4 series,113816,other,black,tx,29.3875,-98.5245
+0,2012,hyundai,tucson,82552,,,tx,30.633,-97.6707
+13500,1995,toyota,hiace scl 4wd,138000,van,brown,tx,36.425483,-105.58784
+5500,2006,honda,civic,112515,,,tx,30.5052,-97.8203
+7995,2003,ram,,188708,pickup,,tx,30.064714,-97.839307
+0,2009,cadillac,cts,,other,black,tx,30.35389,-97.70408
+8000,2010,bmw,328i,155000,sedan,grey,tx,30.229751,-97.731018
+5999,2011,mazda,2,89000,,,tx,30.4417,-97.6811
+4995,2007,subaru,impreza,132000,,,tx,30.4417,-97.6811
+17800,2017,jeep,cherokee,48996,,,tx,30.582572,-97.692412
+54995,2019,ram,2500,39432,pickup,black,tx,30.064714,-97.839307
+0,2012,dodge,journey se,102000,,,tx,30.35081,-97.709153
+0,2013,chevrolet,malibu ltz,123000,,,tx,30.35081,-97.709153
+10500,2013,lincoln,mks ecoboost,108400,sedan,white,tx,30.397016,-97.924576
+50130,2016,dodge,,2991,other,,tx,44.927304,-123.030322
+26000,2019,ram,1500 classic,6554,pickup,black,tx,30.013338,-97.859344
+36995,2015,ford,f-150,83022,pickup,,tx,30.064714,-97.839307
+15761,2017,ford,escape,53319,SUV,yellow,tx,30.08502,-97.81943
+40900,2013,ford,super duty f-250 srw,115644,pickup,green,tx,30.34667,-97.5609
+3500,1959,,amc rambler,77000,coupe,white,tx,30.2268,-98.1029
+26990,2015,lexus,is,91599,sedan,silver,tx,30.5784,-98.2751
+0,2017,hyundai,elantra se,81676,hatchback,silver,tx,30.244647,-97.730754
+12987,2014,volkswagen,passat tdi sel,75600,sedan,grey,tx,29.5563,-98.3643
+22995,2015,ford,f-150,136908,pickup,,tx,30.064714,-97.839307
+2600,2013,dodge,durango,138000,SUV,,tx,30.320404,-97.686739
+16500,2017,ford,fusion hybrid,47307,,,tx,30.582572,-97.692412
+2800,1998,toyota,tacoma,300000,,,tx,30.4254,-97.7195
+0,2011,ram,,132930,pickup,green,tx,29.656973,-95.555175
+7000,2013,volkswagen,jetta,139000,SUV,brown,tx,30.0866,-98.0049
+58995,2019,ram,3500,36966,pickup,white,tx,30.064714,-97.839307
+1,2016,chrysler,200,100000,,,tx,30.1876,-97.7472
+1,2020,chevrolet,malibu,34800,,,tx,30.1743,-97.8225
+1,2019,chevrolet,impala,34000,,,tx,30.2063,-97.7956
+62550,2016,porsche,,21991,other,,tx,44.927304,-123.030322
+58995,2018,ram,3500,80475,pickup,,tx,30.064714,-97.839307
+6500,1985,chevrolet,corvette,101000,coupe,red,tx,30.5052,-97.8203
+10000,2009,chevrolet,silverado 2500hd,332000,,white,tx,30.66507,-97.666734
+2500,2017,ford,escape,100185,,,tx,29.5613,-97.9628
+3000,2003,mercedes-benz,benz clk 320,150000,coupe,silver,tx,30.2971,-97.8181
+34995,2016,ford,f-250,96742,pickup,black,tx,30.064714,-97.839307
+16300,2017,chevrolet,equinox,53982,,,tx,30.582572,-97.692412
+0,2017,audi,,16613,other,,tx,44.927304,-123.030322
+34995,2016,ford,f-250,96742,pickup,black,tx,30.064714,-97.839307
+8300,2015,kia,forte lx,87000,sedan,white,tx,30.3764,-97.7078
+56995,2019,ford,f-350,42270,other,,tx,30.064714,-97.839307
+37500,2016,,MB SL400,67450,convertible,white,tx,32.6587,-96.9114
+0,1977,volkswagen,t2 camper,14000,bus,green,tx,30.2713,-97.7426
+7895,2014,hyundai,accent,61194,SUV,black,tx,30.0866,-98.0049
+21500,,,wagen Beetle,49500,coupe,,tx,29.73016,-95.480909
+27995,2019,ford,ranger,38379,pickup,silver,tx,30.064714,-97.839307
+2800,2008,chevrolet,silverado,173052,,,tx,29.5613,-97.9628
+5900,2007,honda,crv,202940,SUV,black,tx,30.639537,-98.262405
+15800,2016,ford,edge,95075,,,tx,30.582572,-97.692412
+12995,1972,chevrolet,c10 truck,30000,truck,blue,tx,30.2166,-97.8508
+39995,2015,toyota,tundra,83423,pickup,silver,tx,30.064714,-97.839307
+19977,2011,jeep,wrangler 4x4 sport,82500,,yellow,tx,29.5563,-98.3643
+0,1970,porsche,911 cpe,6760,,,tx,29.73016,-95.480909
+36995,2018,ram,3500,139748,pickup,white,tx,30.064714,-97.839307
+4750,2008,toyota,corolla,161000,,,tx,30.4417,-97.6811
+3999,2006,ford,five hundred,102000,,,tx,30.4417,-97.6811
+14800,2019,toyota,yaris,18199,,,tx,30.582572,-97.692412
+34995,2013,ford,f250,165125,,,tx,30.650288,-97.866554
+3000,2021,,All Makes,1,,,tx,30.5083,-97.6789
+45995,2013,ram,2500,135068,pickup,,tx,30.064714,-97.839307
+4000,1998,ford,f150,138000,pickup,,tx,30.1238,-97.8393
+44200,2017,ford,,19292,other,,tx,44.927304,-123.030322
+54460,2017,porsche,,4012,other,,tx,44.927304,-123.030322
+50100,2018,chevrolet,,8977,other,,tx,44.927304,-123.030322
+45000,2020,chevrolet,silverado crew custom 4wd,7600,truck,blue,tx,30.015265,-97.887068
+11500,2012,gmc,acadia,90000,,silver,tx,29.9966,-97.8335
+13500,2000,jeep,wrangler sport tj,115000,offroad,yellow,tx,30.449,-97.9669
+0,2011,ford,ranger,123452,truck,white,tx,30.10984,-97.35746
+2000,2016,kia,optima lx,72000,sedan,,tx,30.319366,-97.688799
+82500,2020,toyota,landcruiser,8948,SUV,grey,tx,30.3337,-97.9824
+0,2018,hyundai,accent,38000,sedan,,tx,30.169404,-97.783675
+0,2016,chevrolet,malibu ls,42000,,,tx,30.169024,-97.78347
+67995,2017,ford,f-350,67217,pickup,black,tx,30.064714,-97.839307
+0,2018,chevrolet,cruze,42000,,,tx,30.169766,-97.783556
+0,2018,,ALL MAKES AND MODEL,42000,coupe,,tx,30.192736,-97.766991
+0,2018,,"2018,2017,2016,2015 Model",42000,,,tx,30.169766,-97.783556
+0,2018,,",2017,2016,2015 MODELS",69000,,,tx,30.169469,-97.783298
+55410,2019,ford,,33914,other,,tx,44.927304,-123.030322
+27421,2016,ram,pickup 1500,67523,pickup,red,tx,31.539723,-97.195009
+28997,2015,toyota,tundra sr5,137000,truck,grey,tx,29.5563,-98.3643
+4000,1956,chevrolet,3100 pickup/shortbed,1234,pickup,blue,tx,30.193545,-97.752429
+13800,2014,ford,flex,135049,,,tx,30.582572,-97.692412
+0,2018,ram,3500,68656,pickup,,tx,30.064714,-97.839307
+6999,2007,ford,expedition xlt,191178,SUV,white,tx,30.1876,-97.7472
+6500,2011,hyundai,sonata,120000,,silver,tx,29.9966,-97.8335
+14999,2011,ford,f150 xl,175378,truck,white,tx,30.1876,-97.7472
+2999,1977,mazda,rx-4,9999999,,,tx,30.5257,-97.5672
+1500,2010,,any and all,124567,,,tx,30.1876,-97.7472
+0,2017,ram,3500,38505,pickup,red,tx,30.064714,-97.839307
+0,2014,chevrolet,silverado 1500,171000,truck,white,tx,30.318091,-97.698761
+5000,2008,nissan,pathfinder se,255000,SUV,grey,tx,29.8868,-97.6769
+6900,1982,chevrolet,camaro,138305,coupe,brown,tx,30.4421,-97.6299
+46995,2017,ford,f-150,48544,truck,black,tx,29.67838,-95.43512
+28995,2020,volkswagen,passat,8610,sedan,white,tx,29.517711,-98.396752
+26995,2018,kia,optima,33349,sedan,black,tx,29.517711,-98.396752
+8500,2004,lexus,sc 430,171609,convertible,black,tx,30.5784,-98.2751
+42998,2016,jeep,wrangler unlimited,52223,SUV,green,tx,30.3432,-97.738975
+38870,2015,jeep,wrangler unlimited,48733,SUV,white,tx,30.3432,-97.738975
+17998,2013,bmw,5 series 535i m sport,97420,sedan,black,tx,30.3432,-97.738975
+17995,2011,ford,mustang gt convertible,92984,convertible,white,tx,30.3432,-97.738975
+47988,2016,jeep,wrangler unlimited,58887,SUV,black,tx,30.3432,-97.738975
+17998,2012,rover,lr 4,109150,SUV,black,tx,30.3432,-97.738975
+17998,2006,,Hummer H3,121833,SUV,white,tx,30.3432,-97.738975
+32870,2011,mercedes-benz,sl550 amg sport package,55922,convertible,grey,tx,30.3432,-97.738975
+17995,2011,bmw,3 series 328i convertible,55123,convertible,silver,tx,30.3432,-97.738975
+11991,2013,hyundai,santa fe sport,112658,SUV,red,tx,30.402667,-97.761037
+55995,2017,ford,super duty f-250,105930,truck,,tx,29.67838,-95.43512
+22295,2015,ford,edge,61774,SUV,white,tx,30.08502,-97.81943
+20000,2019,nissan,altima,37408,sedan,silver,tx,30.08502,-97.81943
+20000,2013,ford,f-150 xl automatic,72530,pickup,blue,tx,30.08502,-97.81943
+37990,2017,chevrolet,silverado 1500,80342,pickup,white,tx,30.34667,-97.5609
+20700,2017,nissan,pathfinder sl automatic,0,SUV,white,tx,30.34667,-97.5609
+37394,2020,ford,transit cargo van,10005,mini-van,white,tx,30.34667,-97.5609
+24427,2017,toyota,avalon,45388,sedan,white,tx,30.206851,-97.797381
+19910,2013,toyota,tundra,136919,pickup,grey,tx,30.206851,-97.797381
+30000,1988,chevrolet,k5 blazer,27000,SUV,black,tx,30.5052,-97.8203
+30921,2015,ford,f-150,79151,pickup,custom,tx,30.402667,-97.761037
+26990,2015,mercedes-benz,m-class ml 350,44898,SUV,black,tx,30.26,-97.74
+22590,2017,bmw,i3 range extender hatchback,16721,hatchback,,tx,30.26,-97.74
+21590,2017,cadillac,ats sedan 4d,17799,sedan,silver,tx,30.26,-97.74
+21590,2020,kia,forte gt sedan 4d,24338,sedan,orange,tx,30.26,-97.74
+25990,2015,buick,enclave premium sport,33154,SUV,,tx,30.26,-97.74
+24990,2013,bmw,1 series 135i coupe 2d,24394,coupe,black,tx,30.26,-97.74
+17590,2015,nissan,altima 2.5 sl sedan 4d,29293,sedan,red,tx,30.26,-97.74
+18990,2015,hyundai,santa fe sport 2.0t,19479,other,white,tx,30.26,-97.74
+27590,2014,audi,q7 3.0t s line prestige,44781,other,,tx,30.26,-97.74
+37990,2019,tesla,model 3 standard range,32100,sedan,,tx,30.26,-97.74
+19590,2013,bmw,1 series 135i coupe 2d,83600,coupe,black,tx,30.26,-97.74
+20990,2013,cadillac,xts premium collection,26563,sedan,silver,tx,30.26,-97.74
+16590,2015,bmw,i3 hatchback 4d,33410,hatchback,white,tx,30.26,-97.74
+35590,2018,bmw,x4 xdrive28i sport utility,30133,other,white,tx,30.26,-97.74
+19590,2016,volvo,s60 t5 sedan 4d,37386,sedan,,tx,30.26,-97.74
+38590,2019,rover,discovery sport hse,22532,SUV,blue,tx,30.26,-97.74
+36590,2018,ram,1500 crew cab tradesman,1900,pickup,white,tx,30.26,-97.74
+15590,2014,mini,countryman cooper s all4,89805,hatchback,silver,tx,30.26,-97.74
+23990,2017,kia,cadenza technology sedan 4d,23942,sedan,,tx,30.26,-97.74
+31590,2019,honda,ridgeline sport pickup 4d,11397,pickup,silver,tx,30.26,-97.74
+15590,2020,chevrolet,spark 1lt hatchback 4d,31454,hatchback,,tx,30.26,-97.74
+26590,2018,mini,countryman cooper s all4,30780,hatchback,,tx,30.26,-97.74
+37590,2019,tesla,model 3 standard range,14529,sedan,black,tx,30.26,-97.74
+28590,2015,dodge,charger r/t road and track,33174,sedan,black,tx,30.26,-97.74
+17990,2011,nissan,armada sl sport utility,77006,SUV,silver,tx,30.26,-97.74
+29590,2015,mercedes-benz,m-class ml 350,18768,SUV,black,tx,30.26,-97.74
+25990,2016,buick,enclave leather sport,25750,other,,tx,30.26,-97.74
+37590,2019,nissan,armada sl sport utility,56362,SUV,silver,tx,30.26,-97.74
+35990,2010,,Maserati GranTurismo Coupe 2D,42318,coupe,,tx,30.26,-97.74
+15990,2013,honda,crosstour ex-l sport,105598,hatchback,silver,tx,30.26,-97.74
+37990,2018,audi,q7 2.0t premium sport,11967,SUV,black,tx,30.26,-97.74
+16990,2012,honda,crosstour ex-l sport,76260,hatchback,white,tx,30.26,-97.74
+17590,2014,kia,cadenza limited-sxl sedan 4d,59816,sedan,black,tx,30.26,-97.74
+31990,2019,buick,envision premium sport,11188,SUV,black,tx,30.26,-97.74
+39590,2017,bmw,x5 xdrive35d sport utility,29355,other,silver,tx,30.26,-97.74
+33990,2017,ram,1500 crew cab tradesman,17033,pickup,blue,tx,30.26,-97.74
+19590,2018,nissan,altima 2.5 sr sedan 4d,29093,sedan,black,tx,30.26,-97.74
+36990,2018,bmw,x5 xdrive35i sport utility,36942,other,black,tx,30.26,-97.74
+18990,2020,kia,forte fe sedan 4d,11491,sedan,white,tx,30.26,-97.74
+20990,2018,hyundai,santa fe sport utility,27019,other,black,tx,30.26,-97.74
+15990,2019,chevrolet,spark 1lt hatchback 4d,17401,hatchback,,tx,30.26,-97.74
+22590,2018,mini,hardtop 2 door cooper s,13845,hatchback,black,tx,30.26,-97.74
+30590,2019,honda,ridgeline sport pickup 4d,23645,pickup,silver,tx,30.26,-97.74
+38990,2020,dodge,charger r/t sedan 4d,4352,sedan,silver,tx,30.26,-97.74
+26990,2017,mini,hardtop 2 door john cooper,24062,hatchback,black,tx,30.26,-97.74
+23590,2018,cadillac,xts luxury sedan 4d,77596,sedan,black,tx,30.26,-97.74
+37590,2017,infiniti,qx80 limited sport,60560,other,white,tx,30.26,-97.74
+44800,2021,subaru,ascent,4500,,,tx,30.582572,-97.692412
+40700,2019,chevrolet,colorado,16895,,,tx,30.582572,-97.692412
+1500,1957,chevrolet,bel aire,40000,,,tx,30.3388,-97.5323
+48500,2007,,International 4300,290000,,,tx,38.34736,-121.49331
+13245,2010,ford,f350 diesels powerstroke,88000,,,tx,29.5613,-97.9628
+16500,1998,chevrolet,corvette,51000,coupe,black,tx,30.498,-97.816
+38800,2020,subaru,ascent,5139,,,tx,30.582572,-97.692412
+13000,2007,chevrolet,avalanche,92000,,,tx,30.1745,-97.6134
+9550,2015,ford,c - max se hybrid,146168,wagon,silver,ut,40.746652,-111.939611
+3200,2008,ford,focus,180000,,,ut,37.0044,-112.9784
+2900,2010,dodge,avenger se,180000,,,ut,37.0044,-112.9784
+3500,2002,dodge,dakota quad cab,200000,,,ut,37.0044,-112.9784
+1200,2004,honda,pilot,151000,SUV,silver,ut,37.1088,-113.5927
+14995,2013,bmw,x3 xdrive28i,74175,,silver,ut,40.376357,-111.806112
+37995,2018,ford,f-150,37069,,white,ut,40.376357,-111.806112
+18500,2012,jeep,grand cherokee overland,97450,SUV,black,ut,37.6775,-113.0619
+32995,2017,ram,1500,51042,,black,ut,40.376357,-111.806112
+58995,2017,gmc,sierra 2500hd,99470,,black,ut,40.376357,-111.806112
+55995,2015,gmc,sierra 2500hd available wifi,68080,,silver,ut,40.376357,-111.806112
+7950,2011,ford,fusion se,109000,,red,ut,37.6775,-113.0619
+18699,2015,toyota,camry,40532,sedan,,ut,37.097941,-113.23305
+3500,1995,chevrolet,astrovan,237000,,,ut,37.215361,-113.251437
+7550,2015,dodge,dart sxt,73269,sedan,grey,ut,40.746636,-111.939569
+13950,2017,nissan,rogue awd,28709,SUV,black,ut,40.746473,-111.940105
+4000,2008,mazda,3,139000,hatchback,grey,ut,37.6775,-113.0619
+4950,2012,dodge,grand caravan,142761,van,black,ut,40.746441,-111.939676
+3000,2006,mazda,mvp,160000,,,ut,37.074442,-113.565674
+3250,2001,honda,accord ex,180000,,,ut,37.052694,-113.58902
+65495,2018,rover,sport,24501,SUV,black,ut,37.175631,-113.60824
+23000,2007,ford,super duty f-450 drw,148000,truck,white,ut,37.1274,-113.5193
+4950,2009,toyota,sienna,114619,van,red,ut,40.746376,-111.939805
+4550,2009,nissan,cube,133867,wagon,red,ut,40.746522,-111.939504
+12950,2017,chevrolet,equinox lt awd,56412,SUV,silver,ut,40.746587,-111.939783
+10599,2013,volkswagen,jetta,86545,sedan,silver,ut,37.097941,-113.23305
+25500,2011,toyota,fj cruiser 2011,115000,SUV,brown,ut,37.0475,-112.5263
+20450,2017,honda,accord,52970,sedan,white,ut,37.175631,-113.60824
+33495,2014,lexus,gx,98897,SUV,silver,ut,37.175631,-113.60824
+16995,2015,subaru,wrx,119834,sedan,blue,ut,37.175631,-113.60824
+25944,2014,ram,1500,86421,pickup,white,vt,42.788204,-71.233728
+32944,2015,gmc,sierra,106824,pickup,,vt,42.788204,-71.233728
+55944,2017,ram,2500,49582,pickup,black,vt,42.788204,-71.233728
+66944,2018,gmc,sierra,26105,pickup,white,vt,42.788204,-71.233728
+54944,2016,ford,f-250,89903,pickup,black,vt,42.788204,-71.233728
+15944,2003,ford,f-350,194542,pickup,,vt,42.788204,-71.233728
+48944,2014,ram,3500,115006,pickup,black,vt,42.788204,-71.233728
+17995,2014,toyota,rava 4wd xle,57635,,,vt,43.9919,-73.1716
+15495,2013,honda,odyssey touring,102868,,,vt,43.9919,-73.1716
+36900,2017,chevrolet,silverado 1500 dbl,44885,,,vt,44.001038,-73.147438
+10900,2017,ford,fiesta s sedan,37610,,,vt,44.001038,-73.147438
+34900,2018,jeep,grand cherokee laredo,68181,,,vt,44.001038,-73.147438
+4800,2004,mini,cooper s,130000,,red,vt,44.3346,-73.098
+8000,2002,,Freightliner FL70,221000,,,vt,42.0794,-71.04
+13500,2013,toyota,camry le,69000,,silver,vt,44.5035,-73.0906
+13900,2015,ford,fusion se fwd,74561,,,vt,44.001038,-73.147438
+59900,2018,ford,f-150 king ranch crew,35263,,,vt,44.001038,-73.147438
+12500,1991,gmc,sierra,95000,,,va,37.1057,-80.6853
+18995,2016,ford,f150 xlt,113470,pickup,white,va,38.793,-77.5266
+29990,2012,toyota,tacoma double cab pickup,43182,pickup,white,va,37.12,-80.55
+22590,2013,ford,f150 super cab xl pickup 4d,14169,pickup,silver,va,37.12,-80.55
+32990,2011,bmw,z4 sdrive35is roadster 2d,45858,other,red,va,37.12,-80.55
+39590,2020,ford,mustang gt coupe 2d,2516,coupe,black,va,37.12,-80.55
+27990,2017,buick,enclave leather sport,31479,other,black,va,37.12,-80.55
+24990,2017,infiniti,qx50 sport utility 4d,28240,hatchback,black,va,37.12,-80.55
+16500,2015,bmw,x3,76500,SUV,grey,va,37.2563,-80.4347
+22990,2017,infiniti,qx50 sport utility 4d,21297,hatchback,black,va,37.12,-80.55
+23590,2015,buick,enclave premium sport,79136,other,white,va,37.12,-80.55
+13500,2006,ford,f250 super duty xlt,202795,pickup,blue,va,37.2563,-80.4347
+15590,2017,kia,forte lx sedan 4d,18780,sedan,white,va,37.12,-80.55
+6500,2003,ford,f-350,315980,truck,white,va,37.317769,-80.606582
+34990,2020,lexus,nx 300 sport utility 4d,5189,hatchback,black,va,37.12,-80.55
+25590,2020,buick,encore gx select sport,1113,SUV,red,va,37.12,-80.55
+34990,2020,lexus,nx 300 sport utility 4d,1722,hatchback,black,va,37.12,-80.55
+12200,2011,nissan,frontier,115400,truck,black,va,36.8814,-80.3574
+20590,2013,acura,mdx sport utility 4d,77087,SUV,silver,va,37.12,-80.55
+23900,2015,lexus,rx350 awd,78282,,,va,37.2563,-80.4347
+17590,2016,hyundai,sonata se sedan 4d,9570,sedan,,va,37.12,-80.55
+29990,2018,alfa-romeo,romeo stelvio ti sport,26978,hatchback,,va,37.12,-80.55
+31590,2019,cadillac,xt4 sport suv 4d,12102,hatchback,black,va,37.12,-80.55
+1800,2015,mitsubishi,outlander sport,96000,,white,va,36.757453,-80.751915
+3400,2004,chevrolet,avalanche,315000,,green,va,37.0046,-81.3643
+9750,2012,gmc,terrain slt,148794,SUV,blue,va,37.1353,-80.4188
+24980,2004,bmw,3-series,119725,coupe,white,wa,47.692931,-117.411632
+10990,2011,toyota,rav4,166075,,,wa,46.207557,-119.11703
+12990,2016,mazda,6,86986,,,wa,46.207557,-119.11703
+27998,2018,subaru,outback,15164,,blue,wa,46.213805,-119.161041
+27998,2022,mitsubishi,eclipse cross,10,,silver,wa,46.213805,-119.161041
+26998,2018,mercedes-benz,c-class,21283,,white,wa,46.213805,-119.161041
+13998,2018,mitsubishi,mirage,9000,,black,wa,46.213805,-119.161041
+23500,2021,mitsubishi,outlander sport,10,,blue,wa,46.213805,-119.161041
+5990,2001,dodge,dakota,121183,,,wa,46.207557,-119.11703
+5990,2007,honda,civic,155120,,blue,wa,46.207557,-119.11703
+6990,1997,chevrolet,camaro z28,131638,,,wa,46.207557,-119.11703
+1490,1997,chevrolet,cavalier,234227,,,wa,46.207557,-119.11703
+5990,2011,hyundai,elantra gls,158977,,silver,wa,46.207557,-119.11703
+9990,2013,mazda,3,97199,,,wa,46.207557,-119.11703
+6990,2010,volkswagen,jetta,147001,,,wa,46.207557,-119.11703
+4990,2007,saturn,ion,133818,,,wa,46.207557,-119.11703
+15990,2018,toyota,corolla,60996,,,wa,46.207557,-119.11703
+6990,2011,ford,fusion,155017,,,wa,46.236116,-119.218826
+10990,2012,gmc,terrain,97299,,,wa,46.207557,-119.11703
+13900,1978,pontiac,trans am,115000,,blue,wa,46.2806,-119.4913
+25997,2004,toyota,"tacoma v6 4dr double cab 1-oregon owner* rust & accident free*timing belt service done*new full buid*bilstein lift*new 33""yokohama goo3*new 17""mk6 wheels*like new in & out",155503,pickup,white,wa,45.5472,-122.5001
+22997,2006,lexus,gx 470 4dr suv 2-owner arizona gx*rust&accident free*new timing belt&water pump*new bilstein lift*new wheels&tires* immaculate shape*all books and keys*all records since new,163867,SUV,blue,wa,45.5472,-122.5001
+33590,2014,toyota,tundra crewmax sr5 pickup,55251,pickup,red,wv,39.63,-79.94
+25590,2018,chrysler,pacifica touring plus,8666,van,,wv,39.63,-79.94
+30990,2014,ford,f150 supercrew cab fx4,67344,pickup,orange,wv,39.63,-79.94
+36590,2019,chevrolet,silverado 1500 crew,7619,pickup,white,wv,39.63,-79.94
+10500,2015,toyota,rav4,71712,SUV,,wv,40.810152,-80.425219
+10500,2013,honda,accord,130000,sedan,grey,wv,39.6505,-79.944
+27995,2013,chevrolet,silverado 2500 hd crew cab,268404,pickup,white,wv,30.1237,-95.2686
+30000,2015,gmc,sierra 3500hd,135423,truck,white,wv,40.833834,-81.338867
+32500,2016,ram,2500,153794,truck,white,wv,40.833834,-81.338867
+42900,2018,ford,super duty f-350 drw,177641,truck,white,wv,40.833834,-81.338867
+23500,2016,ford,transit cargo van,93017,van,white,wv,40.833834,-81.338867
+41999,2015,ford,f-350 crew cab lariat 4x4,141948,pickup,silver,wv,39.512938,-76.909548
+20500,2016,,2016 v6 mustang,30567,coupe,silver,wv,39.6505,-79.944
+27990,2012,toyota,tacoma double cab pickup,67245,pickup,silver,wv,39.63,-79.94
+3500,2003,buick,lesabre,177860,,,wv,39.466787,-80.114851
+30990,2017,nissan,frontier crew cab pro-4x,31095,pickup,white,wv,39.63,-79.94
+7950,2011,jeep,liberty,90000,,white,wv,39.6505,-79.944
+31590,2017,jeep,wrangler unlimited sport,30577,other,,wv,39.63,-79.94
+31990,2016,ford,f150 super cab xl pickup 4d,34729,pickup,white,wv,39.63,-79.94
+4950,2000,jeep,cherokee sport 4x4,222000,,,wv,40.2926,-79.4103
+36990,2019,chevrolet,silverado 1500 ld,14508,pickup,red,wv,39.63,-79.94
+9500,1999,chevrolet,corvette,86000,,red,wv,39.4718,-79.6912
+8200,2006,rover,,206000,SUV,black,wv,39.4718,-79.6911
+34000,2016,dodge,grand caravan,32385,van,grey,wv,39.9993,-79.998
+4450,2003,pontiac,grand am gt,76000,,,wv,40.2926,-79.4103
+32990,2017,ram,1500 crew cab big horn,10193,pickup,,wv,39.63,-79.94
+31590,2018,toyota,4runner sr5 sport utility,62496,other,red,wv,39.63,-79.94
+35990,2020,dodge,challenger r/t coupe 2d,1548,coupe,black,wv,39.63,-79.94
+4988,2013,kia,soul,94076,wagon,blue,wi,44.959702,-92.730608
+6800,2000,ford,excursion xlt,155000,SUV,green,wi,45.5061,-91.7382
+29990,2019,ford,ranger supercrew xl pickup,10301,pickup,black,wi,44.82,-91.49
+39950,2015,porsche,macan turbo awd crossove,53321,,,wi,44.843195,-91.550371
+5200,2010,ford,dege,190000,,,wi,45.0623,-92.1816
+40590,2019,ford,f250 super duty regular cab,9313,pickup,white,wi,44.82,-91.49
+5000,2009,nissan,cube,120000,SUV,grey,wi,44.9369,-91.3929
+19950,2012,rover,hse 4x4 s,74943,,,wi,44.843195,-91.550371
+22950,2017,bmw,x5 xdrive35i awd luxury suv,108355,,,wi,44.843195,-91.550371
+19500,2017,chevrolet,traverse,75000,SUV,grey,wi,44.784,-91.4877
+10000,1975,,oldsmobile cutlass supreme,91384,coupe,white,wi,44.82806,-91.514261
+37995,2017,ford,f-550 super duty,107271,truck,white,wi,45.300997,-92.970922
+14600,2016,jeep,patriot,24780,SUV,grey,wi,44.408744,-89.881897
+25990,2017,toyota,tacoma access cab sr,22820,pickup,,wi,44.82,-91.49
+27590,2013,toyota,tacoma access cab pickup,43937,pickup,white,wi,44.82,-91.49
+18995,2014,buick,lacrosse leather,35500,sedan,custom,wi,44.82296,-91.474646
+19840,2017,nissan,frontier,57533,pickup,grey,wi,44.408867,-89.881039
+18450,2004,ram,,247850,truck,black,wi,44.8021,-91.4382
+43990,2020,dodge,challenger r/t scat pack,1050,coupe,blue,wi,44.82,-91.49
+22000,2008,gmc,sierra 2500hd,187000,truck,,wi,44.6086,-92.2782
+12000,1985,chevrolet,corvette,32000,coupe,red,wi,44.8217,-91.5424
+10800,2019,mazda,3 select,9651,sedan,black,wi,44.408989,-89.881382
+6850,2008,chevrolet,silverado 1500,222083,pickup,blue,wi,44.830942,-91.742213
+37995,2019,chevrolet,silverado 2500hd,72759,truck,silver,wi,45.301154,-92.970815
+28990,2018,gmc,acadia sle-2 sport utility,24486,SUV,,wi,44.82,-91.49
+43990,2019,dodge,challenger r/t scat pack,868,coupe,yellow,wi,44.82,-91.49
+8500,2012,ford,fusion,83000,sedan,black,wi,44.784,-91.4877
+6977,2011,honda,civic,112396,sedan,white,wy,45.7629,-108.539
+4977,2005,nissan,altima,154917,sedan,,wy,45.7629,-108.539
+7977,2009,toyota,matrix,142868,sedan,blue,wy,45.7629,-108.539
+7477,2012,fiat,500,64267,hatchback,,wy,45.7629,-108.539
+5477,2003,nissan,murano,168055,SUV,blue,wy,45.7629,-108.539
+41990,2019,toyota,4runner limited sport,36630,SUV,white,wy,33.7865,-84.4454
+51990,2020,cadillac,xt6 premium luxury,6814,other,black,wy,33.779214,-84.411811
+48590,2020,cadillac,xt6 premium luxury,7701,other,black,wy,33.779214,-84.411811
+39990,2017,infiniti,qx80 sport utility 4d,41664,other,black,wy,33.779214,-84.411811
+30990,2019,alfa-romeo,romeo giulia ti sedan 4d,3883,sedan,blue,wy,33.7865,-84.4454
+27590,2018,,Genesis G80 3.8 Sedan 4D,36138,sedan,black,wy,33.7865,-84.4454
+25590,2017,,Genesis G80 3.8 Sedan 4D,37608,sedan,white,wy,33.7865,-84.4454
+29590,2016,toyota,4runner sr5 sport utility,53475,SUV,black,wy,33.7865,-84.4454
+34590,2020,alfa-romeo,romeo giulia sedan 4d,2498,sedan,black,wy,33.779214,-84.411811
+32990,2016,infiniti,qx80 sport utility 4d,55612,other,black,wy,33.779214,-84.411811
+28990,2018,jaguar,xe 25t prestige sedan 4d,16841,sedan,white,wy,33.7865,-84.4454
